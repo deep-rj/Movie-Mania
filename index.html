@@ -2,16 +2,53 @@
 <meta charset="utf-8">
 <style>
 
-#search {
-    background-image: url('/css/searchicon.png'); /* Add a search icon to input */
-    background-position: 10px 12px; /* Position the search icon */
-    background-repeat: no-repeat; /* Do not repeat the icon image */
-    width: 20%;
-    font-size: 16px; /* Increase font-size */
-    padding: 12px 20px 12px 40px; /* Add some padding */
-    border: 1px solid #ddd; /* Add a grey border */
-    margin-bottom: 12px; /* Add some space below the input */
-}    
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+}
+#myInput {
+    border-box: box-sizing;
+    background-image: url('searchicon.png');
+    background-position: 14px 12px;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    padding: 14px 20px 12px 45px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f6f6f6;
+    min-width: 230px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {background-color: #ddd}
+
+.show {display:block;}
     
 .links line {
     stroke: #999;
@@ -37,12 +74,32 @@
 }
 
 </style>
-<input type="text" id="search" onkeyup="myFunction()" placeholder="Search for names..">
+
+<div class="dropdown">
+<button onclick="selectFilter()" class="dropbtn">Filter</button>
+  <div id="filterDropdown" class="dropdown-content">
+    <input type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
+    <a href="#CE">Clint Eastwood</a>
+    <a href="#MF">Morgan Freeman</a>
+    <a href="#BP">Brad Pitt</a>
+    <a href="#BDP">Brian De Palma</a>
+    <a href="#CC">Chris Columbus</a>
+    <a href="#DF">David Fincher</a>
+    <a href="#SJ">Scarlett Johansson</a>
+  </div>
+</div>
+
 <svg width="1920" height="1080"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
 var input, filter;
+var node, link;
+var dropdownlist;
+var linkedByIndex = {};
+    
+var dropdown = d3.select("#filterDropdown");
+console.log(dropdown);
     
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
@@ -69,42 +126,57 @@ d3.json("network.json", function(error, rawGraph) {
     link_width.domain(d3.extent(rawGraph.links, function(d) { return d.strength; }));
     node_radius.domain(d3.extent(rawGraph.nodes, function(d) { return d.movie_count; }));
     
-    filter = "clint eastwood";
-    console.log(rawGraph);
-    graph = filterGraph(rawGraph, filter);
-//    graph = rawGraph;
-    console.log(graph)
+    dropdownList = dropdown
+                    .data(rawGraph.nodes)
+                    .enter().append("a")
+                    .attr("href", function(d) { return "#" + d.id; });
     
-    var linkedByIndex = {};
-    graph.links.forEach(function(d) { linkedByIndex[d.source + "," + d.target] = true; });
+//    input = document.getElementById('search');
+//    filter = input.value.toUpperCase();
+//    filter = "clint eastwood";
+//    console.log(rawGraph);
+//    filteredGraph = (filter === "") ? rawGraph : filterGraph(rawGraph, filter);
+//    filteredGraph = rawGraph;
+//    console.log(graph)
+    
+    buildNetwork(rawGraph);
+    
+    function buildNetwork(graph) {
+        graph.links.forEach(function(d) { linkedByIndex[d.source + "," + d.target] = true; });
 
-    var link = svg.append("g")
-    .attr("class", "links")
-    .selectAll("line")
-    .data(graph.links)
-    .enter().append("line")
-    .attr("stroke-width", function(d) { return link_width(d.strength); });
+        link = svg.append("g")
+                .attr("class", "links")
+                .selectAll("line")
+                .data(graph.links)
+                .enter().append("line")
+                .attr("stroke-width", function(d) { return link_width(d.strength); });
 
-    var node = svg.append("g")
-    .attr("class", "nodes")
-    .selectAll("circle")
-    .data(graph.nodes)
-    .enter().append("circle")
-    .attr("r", function(d) { return node_radius(d.movie_count); })
-    .attr("fill", function(d) { return node_color(d.type); })
-    .call(d3.drag()
-          .on("start", dragstarted)
-          .on("drag", dragged)
-          .on("end", dragended));
+        node = svg.append("g")
+                .attr("class", "nodes")
+                .selectAll("circle")
+                .data(graph.nodes)
+                .enter().append("circle")
+                .attr("r", function(d) { return node_radius(d.movie_count); })
+                .attr("fill", function(d) { return node_color(d.type); })
+                .call(d3.drag()
+                      .on("start", dragstarted)
+                      .on("drag", dragged)
+                      .on("end", dragended));
 
-    node.append("title")
-      .text(function(d) { return d.id; });
+        node.append("title")
+          .text(function(d) { return d.id; });
 
-    node.on("mouseover", set_highlight)
-      .on("click", set_focus)
-      .on("mouseout", exit_highlight);
+        node.on("mouseover", set_highlight)
+          .on("click", set_focus)
+          .on("mouseout", exit_highlight);
 
-    runSimulation();
+        simulation
+            .nodes(graph.nodes)
+            .on("tick", ticked);
+
+        simulation.force("link")
+            .links(graph.links);
+    }
   
     /* Filter the graph */
     function filterGraph(graph, filter) {
@@ -179,18 +251,6 @@ d3.json("network.json", function(error, rawGraph) {
         }
     }
     
-    function runSimulation() {
-//        input = document.getElementById('search');
-//        filter = input.value.toUpperCase();
-        
-        simulation
-            .nodes(graph.nodes)
-            .on("tick", ticked);
-
-        simulation.force("link")
-            .links(graph.links);
-    }
-    
     /* Update coordinates of nodes and links after each simulation iteration */
     function ticked() {
         link
@@ -223,5 +283,26 @@ d3.json("network.json", function(error, rawGraph) {
     }
 
 });
+
+/* When the user clicks on the button,
+toggle between hiding and showing the dropdown content */
+function selectFilter() {
+    document.getElementById("filterDropdown").classList.toggle("show");
+}
+
+function filterFunction() {
+    var input, filter, ul, li, a, i;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    div = document.getElementById("filterDropdown");
+    a = div.getElementsByTagName("a");
+    for (i = 0; i < a.length; i++) {
+        if (a[i].innerHTML.toUpperCase().indexOf(filter) > -1) {
+            a[i].style.display = "";
+        } else {
+            a[i].style.display = "none";
+        }
+    }
+}    
 
 </script>
