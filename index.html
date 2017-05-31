@@ -55,7 +55,11 @@
     
 .links line {
     stroke: #999;
-    stroke-opacity: 0.8;
+    stroke-opacity: 0.5;
+}
+    
+.links .highlight_link {
+    stroke-opacity: 1;
 }
     
 .links .unfocus_links {
@@ -74,6 +78,15 @@
     
 .nodes .unfocus_nodes {
     opacity: 0.1;
+}
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
 }
 
 </style>
@@ -95,7 +108,7 @@
 -->
 
 <div></div>
-<svg width="1920" height="1620"></svg>
+<svg width="1800" height="1800"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
@@ -108,13 +121,13 @@ var focus_node = null;
 var node_color = d3.scaleOrdinal(["#b1e858", "#710394"])
                 .domain(["Actor", "Director"]);
 var node_radius = d3.scaleSqrt()
-                .range([5,15]);
+                .range([10, 20]);
 var link_width = d3.scaleSqrt()
-                .range([1,8]);
-var link_distance = d3.scaleLinear()
-                    .range([100, 50]);
+                .range([1, 8]);
+var link_distance = d3.scaleSqrt()
+                    .range([80, 30]);
 var charge_strength = d3.scaleSqrt()
-                        .range([-30, -500]);
+                        .range([-50, -2000]);
 
 // Create dispatcher to link dropdown and graph events
 var dispatch = d3.dispatch("load", "statechange");
@@ -129,9 +142,9 @@ var svg = d3.select("svg"),
 
 // Setup the force-directed graph simulation
 var simulation = d3.forceSimulation()
-    .velocityDecay(0.7)
-    .force("link", d3.forceLink().id(function(d) { return d.id; }).distance(function(d) { return link_distance(d.strength); }).iterations(5))
-    .force("center", d3.forceCenter(width / 2, height / 2))
+    .velocityDecay(0.8)
+    .force("link", d3.forceLink().id(function(d) { return d.id; }).distance(function(d) { return link_distance(d.strength); }))
+    .force("center", d3.forceCenter((width/2) - 125, (height/2) - 150))
     .force("collision", d3.forceCollide(function(d) { return node_radius(d.movie_count); }))
     .force("charge", d3.forceManyBody().distanceMax(200).strength(function(d) { return charge_strength(d.movie_count); }));
     
@@ -218,10 +231,28 @@ function buildNetwork(graph) {
             .enter().append("circle")
             .attr("r", function(d) { return node_radius(d.movie_count); })
             .attr("fill", function(d) { return node_color(d.type); })
+            .on("mouseover", function(d) {		
+                div.transition()		
+                    .duration(200)		
+                    .style("opacity", .9);		
+                div	.html(formatTime(d.date) + "<br/>"  + d.close)	
+                    .style("left", (d3.event.pageX) + "px")		
+                    .style("top", (d3.event.pageY - 28) + "px");	
+                })					
+            .on("mouseout", function(d) {		
+                div.transition()		
+                    .duration(500)		
+                    .style("opacity", 0);	
+                })
             .call(d3.drag()
                   .on("start", dragstarted)
                   .on("drag", dragged)
                   .on("end", dragended));
+
+    /* Initialize tooltip */
+//    tip = d3.tip().attr('class', 'd3-tip').html(function(d) { return d; });
+//    
+//    svg.call(tip);
 
     node.append("title")
       .text(function(d) { return d.id; });
@@ -250,11 +281,13 @@ function set_highlight(d) {
 function set_focus(d) {
     if (focus_node !== null) {
         node.classed('highlight_node', false);
+        link.classed('highlight_link', false);
         focus_node = null;
     }
     else {
         focus_node = d;
         node.classed('highlight_node', function(o) { return o.id == d.id ? true : false; });
+        link.classed('highlight_link', function(o) { return o.source.id == d.id || o.target.id == d.id ? true : false; });
         set_highlight(focus_node);
     }
 }
