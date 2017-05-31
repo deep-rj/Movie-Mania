@@ -53,6 +53,7 @@ nodes <- unique(nodes)
 nrow(nodes)
 
 nodes_df <- data.frame(id=nodes[,1], movie_count=as.numeric(nodes[,2]), type=nodes[,3])
+nodes_df <- nodes_df[order(nodes_df$id),]
 write.csv(nodes_df, "person.csv", row.names = FALSE)
 
 # Get links for the graph
