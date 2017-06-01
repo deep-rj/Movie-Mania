@@ -2,7 +2,7 @@ library(jsonlite)
 
 movie_data <- read.csv("network_data.csv", header = TRUE)
 
-subset = TRUE
+subset = FALSE
 
 # Remove data with missing director
 movie_data <- movie_data[-which(movie_data$director_name == ''),] 
@@ -31,8 +31,8 @@ x <- aggregate(movie_data$dir_actor, by=list(movie_data$dir_actor), function(x) 
 colnames(x) <- c('dir_actor', 'strength')
 movie_data <- merge(movie_data, x, by='dir_actor', all.x=TRUE)
 
-# Find directors with strength > 1
-significant_dir <- unique(movie_data$director_name[which(movie_data$strength > 1)])
+# Filter on directors (only keep those having some min level of strength)
+significant_dir <- unique(movie_data$director_name[which(movie_data$strength > 3)])
 movie_data <- movie_data[which(movie_data$director_name %in% significant_dir),]
 
 # Subset for testing

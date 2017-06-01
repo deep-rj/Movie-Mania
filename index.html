@@ -80,13 +80,17 @@
     opacity: 0.1;
 }
 
-.d3-tip {
-  line-height: 1;
-  font-weight: bold;
-  padding: 12px;
-  background: rgba(0, 0, 0, 0.8);
-  color: #fff;
-  border-radius: 2px;
+div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: auto;    					
+    height: auto;					
+    padding: 2px;
+    font-family: 12px Helvetica;
+    background: lightsteelblue;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
 }
 
 </style>
@@ -108,7 +112,6 @@
 -->
 
 <div></div>
-<svg width="1800" height="1800"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
@@ -121,7 +124,7 @@ var focus_node = null;
 var node_color = d3.scaleOrdinal(["#b1e858", "#710394"])
                 .domain(["Actor", "Director"]);
 var node_radius = d3.scaleSqrt()
-                .range([10, 20]);
+                .range([10, 30]);
 var link_width = d3.scaleSqrt()
                 .range([1, 8]);
 var link_distance = d3.scaleSqrt()
@@ -135,9 +138,16 @@ var dispatch = d3.dispatch("load", "statechange");
 // The dropdown menu element
 var dropdown = d3.select("div");
 
+// Define the div for the tooltip
+var tooltip = d3.select("body").append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+
 // The SVG canvas
-var svg = d3.select("svg"),
-    width = +svg.attr("width"),
+var svg = d3.select("body").append("svg")
+            .attr("width", 1800).attr("height", 1800);
+
+var width = +svg.attr("width"),
     height = +svg.attr("height");
 
 // Setup the force-directed graph simulation
@@ -231,19 +241,6 @@ function buildNetwork(graph) {
             .enter().append("circle")
             .attr("r", function(d) { return node_radius(d.movie_count); })
             .attr("fill", function(d) { return node_color(d.type); })
-            .on("mouseover", function(d) {		
-                div.transition()		
-                    .duration(200)		
-                    .style("opacity", .9);		
-                div	.html(formatTime(d.date) + "<br/>"  + d.close)	
-                    .style("left", (d3.event.pageX) + "px")		
-                    .style("top", (d3.event.pageY - 28) + "px");	
-                })					
-            .on("mouseout", function(d) {		
-                div.transition()		
-                    .duration(500)		
-                    .style("opacity", 0);	
-                })
             .call(d3.drag()
                   .on("start", dragstarted)
                   .on("drag", dragged)
@@ -254,8 +251,8 @@ function buildNetwork(graph) {
 //    
 //    svg.call(tip);
 
-    node.append("title")
-      .text(function(d) { return d.id; });
+//    node.append("title")
+//      .text(function(d) { return d.id; });
 
     node.on("mouseover", set_highlight)
       .on("click", set_focus)
@@ -272,6 +269,13 @@ function buildNetwork(graph) {
 /* Highlight only 1st degree neighbors on hover/selection */
 function set_highlight(d) {
     svg.style("cursor", "pointer");
+    tooltip.transition()		
+        .duration(200)		
+        .style("opacity", .9);		
+    tooltip .html(d.id + "<br/>"  + d.movie_count)	
+        .style("left", (d3.event.pageX) + "px")		
+        .style("top", (d3.event.pageY - 28) + "px");
+    
     if (focus_node !== null)     d = focus_node;
     node.classed("unfocus_nodes", function(o) { return isConnected(d, o) ? false : true; });
     link.classed("unfocus_links", function(o) { return o.source.id == d.id || o.target.id == d.id ? false : true; });
@@ -295,6 +299,10 @@ function set_focus(d) {
 /* Clear highlight on mouse out event */
 function exit_highlight() {
     svg.style("cursor", "auto");
+    tooltip.transition()		
+        .duration(500)		
+        .style("opacity", 0);
+    
     if (focus_node === null) {
         node.classed("unfocus_nodes", false);
         link.classed("unfocus_links", false);

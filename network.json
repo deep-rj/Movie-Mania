@@ -6,11 +6,6 @@
       "type": "Actor"
     },
     {
-      "id": "Adam Brown",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
       "id": "Adam Goldberg (Ac)",
       "movie_count": 7,
       "type": "Actor"
@@ -41,21 +36,6 @@
       "type": "Actor"
     },
     {
-      "id": "Aidan Quinn",
-      "movie_count": 10,
-      "type": "Actor"
-    },
-    {
-      "id": "Aidan Turner",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "AJ Michalka",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Ajay Naidu",
       "movie_count": 2,
       "type": "Actor"
@@ -63,11 +43,6 @@
     {
       "id": "Al Freeman Jr.",
       "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Al Leong",
-      "movie_count": 2,
       "type": "Actor"
     },
     {
@@ -96,11 +71,6 @@
       "type": "Actor"
     },
     {
-      "id": "Alden Ehrenreich",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
       "id": "Aleksa Palladino",
       "movie_count": 1,
       "type": "Actor"
@@ -108,11 +78,6 @@
     {
       "id": "Alessandra Mastronardi",
       "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Alex Pettyfer",
-      "movie_count": 5,
       "type": "Actor"
     },
     {
@@ -136,21 +101,6 @@
       "type": "Actor"
     },
     {
-      "id": "Alice Braga",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Alice Greczyn",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Alicja Bachleda",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Alison Doody",
       "movie_count": 2,
       "type": "Actor"
@@ -158,11 +108,6 @@
     {
       "id": "Alison Lohman",
       "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Alyson Stoner",
-      "movie_count": 4,
       "type": "Actor"
     },
     {
@@ -178,16 +123,6 @@
     {
       "id": "Amrish Puri",
       "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Amy Carson",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Amy Poehler",
-      "movie_count": 14,
       "type": "Actor"
     },
     {
@@ -216,18 +151,8 @@
       "type": "Actor"
     },
     {
-      "id": "Andrew Garfield",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
       "id": "Andrew Wilson (Ac)",
       "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Andy Richter",
-      "movie_count": 3,
       "type": "Actor"
     },
     {
@@ -236,28 +161,8 @@
       "type": "Actor"
     },
     {
-      "id": "Angelo Tsarouchas",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Angie Dickinson",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Angus Macfadyen",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Anjelica Huston",
       "movie_count": 11,
-      "type": "Actor"
-    },
-    {
-      "id": "Anna Friel",
-      "movie_count": 3,
       "type": "Actor"
     },
     {
@@ -266,33 +171,8 @@
       "type": "Actor"
     },
     {
-      "id": "Anna Kendrick",
-      "movie_count": 12,
-      "type": "Actor"
-    },
-    {
-      "id": "Anne Bancroft",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
       "id": "Anne Hathaway",
       "movie_count": 20,
-      "type": "Actor"
-    },
-    {
-      "id": "Anneliese van der Pol",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Annet Mahendru",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Anthony Edwards",
-      "movie_count": 3,
       "type": "Actor"
     },
     {
@@ -301,28 +181,13 @@
       "type": "Actor"
     },
     {
-      "id": "Anthony Zerbe",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
       "id": "Ariana Richards",
       "movie_count": 4,
       "type": "Actor"
     },
     {
-      "id": "Ariel Gade",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Armin Mueller-Stahl",
       "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Aryana Engineer",
-      "movie_count": 1,
       "type": "Actor"
     },
     {
@@ -351,53 +216,13 @@
       "type": "Actor"
     },
     {
-      "id": "Azura Skye",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Bai Ling",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Bam Margera",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Barbara Bach",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Barbara Hershey",
       "movie_count": 5,
       "type": "Actor"
     },
     {
-      "id": "Barry Bostwick",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Barry Levinson",
-      "movie_count": 13,
-      "type": "Director"
-    },
-    {
       "id": "Barry Shabaka Henley",
       "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Barry Sonnenfeld",
-      "movie_count": 6,
-      "type": "Director"
-    },
-    {
-      "id": "Beau Bridges",
-      "movie_count": 5,
       "type": "Actor"
     },
     {
@@ -421,11 +246,6 @@
       "type": "Actor"
     },
     {
-      "id": "Bernard Hill",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
       "id": "Bernie Mac",
       "movie_count": 13,
       "type": "Actor"
@@ -436,18 +256,8 @@
       "type": "Actor"
     },
     {
-      "id": "Beth Grant",
-      "movie_count": 8,
-      "type": "Actor"
-    },
-    {
       "id": "Betsy Baker",
       "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Beverly D'Angelo",
-      "movie_count": 10,
       "type": "Actor"
     },
     {
@@ -471,28 +281,8 @@
       "type": "Actor"
     },
     {
-      "id": "Billy Boyd",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Billy Drago",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Bingbing Li",
       "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Blair Underwood",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
-      "id": "Blythe Danner",
-      "movie_count": 8,
       "type": "Actor"
     },
     {
@@ -526,16 +316,6 @@
       "type": "Actor"
     },
     {
-      "id": "Bokeem Woodbine",
-      "movie_count": 9,
-      "type": "Actor"
-    },
-    {
-      "id": "Bonnie Hunt (Ac)",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
       "id": "Boris Kodjoe",
       "movie_count": 8,
       "type": "Actor"
@@ -551,53 +331,8 @@
       "type": "Actor"
     },
     {
-      "id": "Brendan Fraser",
-      "movie_count": 15,
-      "type": "Actor"
-    },
-    {
-      "id": "Brett Cullen",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "BrÃ_an F. O'Byrne",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Brian Blessed",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Brian De Palma",
-      "movie_count": 12,
-      "type": "Director"
-    },
-    {
-      "id": "Brian Doyle-Murray",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Brian Geraghty",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
       "id": "Brian O'Halloran",
       "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Brian Thompson",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Brian Van Holt",
-      "movie_count": 3,
       "type": "Actor"
     },
     {
@@ -611,31 +346,6 @@
       "type": "Actor"
     },
     {
-      "id": "Brittany Daniel",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Brooke Smith",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Bruce Davison",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Bruce Dern",
-      "movie_count": 11,
-      "type": "Actor"
-    },
-    {
-      "id": "Bruce Greenwood",
-      "movie_count": 18,
-      "type": "Actor"
-    },
-    {
       "id": "Bruce McGill",
       "movie_count": 16,
       "type": "Actor"
@@ -643,21 +353,6 @@
     {
       "id": "Bruce Willis",
       "movie_count": 36,
-      "type": "Actor"
-    },
-    {
-      "id": "Bruno Kirby",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Bryan Singer",
-      "movie_count": 8,
-      "type": "Director"
-    },
-    {
-      "id": "Burt Kwouk",
-      "movie_count": 2,
       "type": "Actor"
     },
     {
@@ -671,18 +366,8 @@
       "type": "Actor"
     },
     {
-      "id": "Carel Struycken",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Carlos Gallardo",
       "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Carmen Electra",
-      "movie_count": 9,
       "type": "Actor"
     },
     {
@@ -701,23 +386,8 @@
       "type": "Actor"
     },
     {
-      "id": "Caroline Munro",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Carrie Henn",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Cary-Hiroyuki Tagawa",
       "movie_count": 10,
-      "type": "Actor"
-    },
-    {
-      "id": "Casey Affleck",
-      "movie_count": 1,
       "type": "Actor"
     },
     {
@@ -736,23 +406,8 @@
       "type": "Actor"
     },
     {
-      "id": "CCH Pounder",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
       "id": "Cedric the Entertainer",
       "movie_count": 10,
-      "type": "Actor"
-    },
-    {
-      "id": "Celia Imrie",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Chad Lindberg",
-      "movie_count": 3,
       "type": "Actor"
     },
     {
@@ -763,31 +418,6 @@
     {
       "id": "Charice",
       "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Charles Martin Smith (Ac)",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Charles Martinet",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Charles Napier",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Charles S. Dutton (Ac)",
-      "movie_count": 8,
-      "type": "Actor"
-    },
-    {
-      "id": "Charlie Korsmo",
-      "movie_count": 2,
       "type": "Actor"
     },
     {
@@ -803,11 +433,6 @@
     {
       "id": "Charlie Talbert",
       "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Charlize Theron",
-      "movie_count": 20,
       "type": "Actor"
     },
     {
@@ -841,33 +466,13 @@
       "type": "Actor"
     },
     {
-      "id": "Chris Barrie",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Chris Bauer",
       "movie_count": 5,
       "type": "Actor"
     },
     {
-      "id": "Chris Elliott",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
       "id": "Chris Hemsworth",
       "movie_count": 14,
-      "type": "Actor"
-    },
-    {
-      "id": "Chris Lowell",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Chris Moss",
-      "movie_count": 1,
       "type": "Actor"
     },
     {
@@ -881,11 +486,6 @@
       "type": "Actor"
     },
     {
-      "id": "Chris Pontius",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
       "id": "Christian Bale",
       "movie_count": 25,
       "type": "Actor"
@@ -896,27 +496,12 @@
       "type": "Actor"
     },
     {
-      "id": "Christina Cox",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Christoph Waltz",
       "movie_count": 9,
       "type": "Actor"
     },
     {
       "id": "Christopher Evan Welch",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Christopher Guest",
-      "movie_count": 4,
-      "type": "Director"
-    },
-    {
-      "id": "Christopher Guest (Ac)",
       "movie_count": 3,
       "type": "Actor"
     },
@@ -946,16 +531,6 @@
       "type": "Actor"
     },
     {
-      "id": "Cindy Williams",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Clarence Williams III",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
       "id": "Clea DuVall",
       "movie_count": 9,
       "type": "Actor"
@@ -981,23 +556,8 @@
       "type": "Actor"
     },
     {
-      "id": "Cole Hauser",
-      "movie_count": 10,
-      "type": "Actor"
-    },
-    {
-      "id": "Colin Firth",
-      "movie_count": 16,
-      "type": "Actor"
-    },
-    {
       "id": "Colin Salmon",
       "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Collette Wolfe",
-      "movie_count": 4,
       "type": "Actor"
     },
     {
@@ -1031,16 +591,6 @@
       "type": "Actor"
     },
     {
-      "id": "Corbin Bleu",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Costas Mandylor",
-      "movie_count": 8,
-      "type": "Actor"
-    },
-    {
       "id": "Courtney B. Vance",
       "movie_count": 3,
       "type": "Actor"
@@ -1066,26 +616,6 @@
       "type": "Actor"
     },
     {
-      "id": "Daniel Kaluuya",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Daniel Stern",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Daniel Stewart Sherman",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Daniel von Bargen",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
       "id": "Danny Aiello",
       "movie_count": 3,
       "type": "Actor"
@@ -1093,11 +623,6 @@
     {
       "id": "Danny Huston",
       "movie_count": 7,
-      "type": "Actor"
-    },
-    {
-      "id": "Danny Webb",
-      "movie_count": 2,
       "type": "Actor"
     },
     {
@@ -1111,11 +636,6 @@
       "type": "Director"
     },
     {
-      "id": "Darren Lynn Bousman",
-      "movie_count": 5,
-      "type": "Director"
-    },
-    {
       "id": "Darryl Cox",
       "movie_count": 1,
       "type": "Actor"
@@ -1126,48 +646,8 @@
       "type": "Actor"
     },
     {
-      "id": "Dave Chappelle",
-      "movie_count": 10,
-      "type": "Actor"
-    },
-    {
-      "id": "Dave Foley",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "David Agranov",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "David Alan Basche",
       "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "David Carradine",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "David Costabile",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "David Cronenberg",
-      "movie_count": 7,
-      "type": "Director"
-    },
-    {
-      "id": "David Fincher",
-      "movie_count": 10,
-      "type": "Director"
-    },
-    {
-      "id": "David Hewlett (Ac)",
-      "movie_count": 4,
       "type": "Actor"
     },
     {
@@ -1181,48 +661,13 @@
       "type": "Actor"
     },
     {
-      "id": "David Margulies",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "David Moscow",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "David O. Russell",
-      "movie_count": 8,
-      "type": "Director"
-    },
-    {
-      "id": "David Patrick Kelly",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "David Twohy",
-      "movie_count": 4,
-      "type": "Director"
-    },
-    {
       "id": "Dean Stockwell",
       "movie_count": 5,
       "type": "Actor"
     },
     {
-      "id": "Debbie Harry",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Debi Mazar",
       "movie_count": 8,
-      "type": "Actor"
-    },
-    {
-      "id": "Deborah Kara Unger",
-      "movie_count": 7,
       "type": "Actor"
     },
     {
@@ -1236,23 +681,8 @@
       "type": "Actor"
     },
     {
-      "id": "Dee Wallace",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Delphine ChanÃ©ac",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Delroy Lindo",
       "movie_count": 13,
-      "type": "Actor"
-    },
-    {
-      "id": "Demi Moore",
-      "movie_count": 14,
       "type": "Actor"
     },
     {
@@ -1261,24 +691,9 @@
       "type": "Actor"
     },
     {
-      "id": "Denis Leary",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Denis O'Hare",
-      "movie_count": 8,
-      "type": "Actor"
-    },
-    {
       "id": "Dennis Dugan",
       "movie_count": 7,
       "type": "Director"
-    },
-    {
-      "id": "Dennis Franz",
-      "movie_count": 2,
-      "type": "Actor"
     },
     {
       "id": "Denzel Washington (Ac)",
@@ -1286,27 +701,7 @@
       "type": "Actor"
     },
     {
-      "id": "Derek Jacobi",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
       "id": "Derek Jeter",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Desmond Llewelyn",
-      "movie_count": 9,
-      "type": "Actor"
-    },
-    {
-      "id": "Dexter Fletcher (Ac)",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Dian Bachar",
       "movie_count": 1,
       "type": "Actor"
     },
@@ -1326,23 +721,8 @@
       "type": "Actor"
     },
     {
-      "id": "Diedrich Bader",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
-      "id": "Djimon Hounsou",
-      "movie_count": 14,
-      "type": "Actor"
-    },
-    {
       "id": "Dom DeLuise",
       "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Don Cheadle",
-      "movie_count": 14,
       "type": "Actor"
     },
     {
@@ -1356,22 +736,7 @@
       "type": "Actor"
     },
     {
-      "id": "Donald Faison",
-      "movie_count": 9,
-      "type": "Actor"
-    },
-    {
-      "id": "Donald Pleasence",
-      "movie_count": 8,
-      "type": "Actor"
-    },
-    {
       "id": "Dreama Walker",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Dustin Fitzsimons",
       "movie_count": 2,
       "type": "Actor"
     },
@@ -1381,28 +746,8 @@
       "type": "Actor"
     },
     {
-      "id": "Dwight Yoakam",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Dylan Baker",
-      "movie_count": 9,
-      "type": "Actor"
-    },
-    {
       "id": "Dylan Schombing",
       "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Ed Begley Jr.",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
-      "id": "Eddie Deezen",
-      "movie_count": 2,
       "type": "Actor"
     },
     {
@@ -1426,11 +771,6 @@
       "type": "Actor"
     },
     {
-      "id": "Edward Zwick",
-      "movie_count": 6,
-      "type": "Director"
-    },
-    {
       "id": "Elizabeth Berkley",
       "movie_count": 4,
       "type": "Actor"
@@ -1451,11 +791,6 @@
       "type": "Actor"
     },
     {
-      "id": "Elliott Gould",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Elvis Nolasco",
       "movie_count": 1,
       "type": "Actor"
@@ -1466,28 +801,8 @@
       "type": "Actor"
     },
     {
-      "id": "Emily Ratajkowski",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Emir Kusturica",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Emma Watson",
       "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Emmanuelle Vaugier",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Enrico Colantoni",
-      "movie_count": 3,
       "type": "Actor"
     },
     {
@@ -1496,23 +811,8 @@
       "type": "Actor"
     },
     {
-      "id": "Eric Darnell",
-      "movie_count": 5,
-      "type": "Director"
-    },
-    {
-      "id": "Eric Idle",
-      "movie_count": 8,
-      "type": "Actor"
-    },
-    {
       "id": "Erick Avari",
       "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Erin Daniels",
-      "movie_count": 1,
       "type": "Actor"
     },
     {
@@ -1526,16 +826,6 @@
       "type": "Actor"
     },
     {
-      "id": "Eugenie Bondurant",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Evan Parke",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Ewen Bremner",
       "movie_count": 7,
       "type": "Actor"
@@ -1543,11 +833,6 @@
     {
       "id": "F. Murray Abraham",
       "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Faizon Love",
-      "movie_count": 9,
       "type": "Actor"
     },
     {
@@ -1566,11 +851,6 @@
       "type": "Actor"
     },
     {
-      "id": "Flea",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Frances Bay",
       "movie_count": 2,
       "type": "Actor"
@@ -1584,21 +864,6 @@
       "id": "Frances Fisher",
       "movie_count": 10,
       "type": "Actor"
-    },
-    {
-      "id": "Frances O'Connor",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Francis Ford Coppola",
-      "movie_count": 11,
-      "type": "Director"
-    },
-    {
-      "id": "Francis Lawrence",
-      "movie_count": 4,
-      "type": "Director"
     },
     {
       "id": "Frank Coraci",
@@ -1621,38 +886,8 @@
       "type": "Actor"
     },
     {
-      "id": "Frank Langella",
-      "movie_count": 13,
-      "type": "Actor"
-    },
-    {
       "id": "Frank Vincent",
       "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Frankie Muniz",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
-      "id": "Fred Gwynne",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Fred Willard",
-      "movie_count": 11,
-      "type": "Actor"
-    },
-    {
-      "id": "Freddie Jones",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Gabrielle Carteris",
-      "movie_count": 1,
       "type": "Actor"
     },
     {
@@ -1666,18 +901,8 @@
       "type": "Director"
     },
     {
-      "id": "Garry Shandling",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
       "id": "Gary Cole",
       "movie_count": 12,
-      "type": "Actor"
-    },
-    {
-      "id": "Gary McDonald",
-      "movie_count": 1,
       "type": "Actor"
     },
     {
@@ -1686,18 +911,8 @@
       "type": "Actor"
     },
     {
-      "id": "Gemma Chan",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Geoff Bell",
       "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Geoffrey Arend",
-      "movie_count": 4,
       "type": "Actor"
     },
     {
@@ -1726,38 +941,13 @@
       "type": "Actor"
     },
     {
-      "id": "Glenn Morshower",
-      "movie_count": 8,
-      "type": "Actor"
-    },
-    {
-      "id": "Gloria Stuart",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Goran Visnjic",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
       "id": "Gore Verbinski",
       "movie_count": 7,
       "type": "Director"
     },
     {
-      "id": "Graham Beckel",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Greg Mottola (Ac)",
       "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Gregg Henry",
-      "movie_count": 5,
       "type": "Actor"
     },
     {
@@ -1766,23 +956,8 @@
       "type": "Actor"
     },
     {
-      "id": "Griffin Kane",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Gus Van Sant",
-      "movie_count": 7,
-      "type": "Director"
-    },
-    {
       "id": "Hal Holbrook",
       "movie_count": 9,
-      "type": "Actor"
-    },
-    {
-      "id": "Haley Bennett",
-      "movie_count": 5,
       "type": "Actor"
     },
     {
@@ -1791,18 +966,8 @@
       "type": "Actor"
     },
     {
-      "id": "Harold Ramis",
-      "movie_count": 8,
-      "type": "Director"
-    },
-    {
       "id": "Harrison Ford",
       "movie_count": 26,
-      "type": "Actor"
-    },
-    {
-      "id": "Harry Carey Jr.",
-      "movie_count": 3,
       "type": "Actor"
     },
     {
@@ -1816,18 +981,8 @@
       "type": "Actor"
     },
     {
-      "id": "Hayley Atwell",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
       "id": "Heath Ledger",
       "movie_count": 8,
-      "type": "Actor"
-    },
-    {
-      "id": "Heather Locklear",
-      "movie_count": 4,
       "type": "Actor"
     },
     {
@@ -1841,31 +996,6 @@
       "type": "Actor"
     },
     {
-      "id": "Henry Czerny",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Henry Rollins",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Herbert Lom",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Holland Taylor",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Holt McCallany",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
       "id": "Hope Davis",
       "movie_count": 10,
       "type": "Actor"
@@ -1876,18 +1006,8 @@
       "type": "Actor"
     },
     {
-      "id": "Huey Lewis",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Hugh Jackman",
       "movie_count": 19,
-      "type": "Actor"
-    },
-    {
-      "id": "Ian Hart",
-      "movie_count": 1,
       "type": "Actor"
     },
     {
@@ -1901,38 +1021,8 @@
       "type": "Actor"
     },
     {
-      "id": "Ike Barinholtz",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Imelda Staunton",
-      "movie_count": 8,
-      "type": "Actor"
-    },
-    {
-      "id": "Ã“scar Jaenada",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Irene Papas",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Irvin Kershner (Ac)",
       "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Isabella Rossellini",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Isabelle Huppert",
-      "movie_count": 5,
       "type": "Actor"
     },
     {
@@ -1941,18 +1031,8 @@
       "type": "Actor"
     },
     {
-      "id": "J.J. Cohen",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "J.K. Simmons",
       "movie_count": 28,
-      "type": "Actor"
-    },
-    {
-      "id": "J.T. Walsh",
-      "movie_count": 5,
       "type": "Actor"
     },
     {
@@ -1961,18 +1041,8 @@
       "type": "Actor"
     },
     {
-      "id": "Jack McGee",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Jack Palance",
       "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Jacob Vargas",
-      "movie_count": 8,
       "type": "Actor"
     },
     {
@@ -1981,23 +1051,8 @@
       "type": "Actor"
     },
     {
-      "id": "Jade Kindar-Martin",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Jaime King",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
       "id": "Jake Busey",
       "movie_count": 8,
-      "type": "Actor"
-    },
-    {
-      "id": "Jake Gyllenhaal",
-      "movie_count": 17,
       "type": "Actor"
     },
     {
@@ -2006,43 +1061,8 @@
       "type": "Actor"
     },
     {
-      "id": "James Badge Dale",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "James Bolam",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "James Cameron",
-      "movie_count": 7,
-      "type": "Director"
-    },
-    {
-      "id": "James Frain",
-      "movie_count": 8,
-      "type": "Actor"
-    },
-    {
       "id": "James Franco",
       "movie_count": 23,
-      "type": "Actor"
-    },
-    {
-      "id": "James Lew",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "James Nesbitt",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "James Pickens Jr.",
-      "movie_count": 2,
       "type": "Actor"
     },
     {
@@ -2051,28 +1071,8 @@
       "type": "Actor"
     },
     {
-      "id": "James Russo",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Jamie Kennedy",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Jamie Lee Curtis",
-      "movie_count": 11,
-      "type": "Actor"
-    },
-    {
       "id": "Jane Fonda",
       "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Jane Krakowski",
-      "movie_count": 6,
       "type": "Actor"
     },
     {
@@ -2086,29 +1086,9 @@
       "type": "Actor"
     },
     {
-      "id": "Jason Cope",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Jason Flemyng",
-      "movie_count": 15,
-      "type": "Actor"
-    },
-    {
-      "id": "Jason Friedberg",
-      "movie_count": 4,
-      "type": "Director"
-    },
-    {
       "id": "Jason Mewes",
       "movie_count": 5,
       "type": "Actor"
-    },
-    {
-      "id": "Jason Reitman",
-      "movie_count": 4,
-      "type": "Director"
     },
     {
       "id": "Jason Scott Lee",
@@ -2121,38 +1101,13 @@
       "type": "Actor"
     },
     {
-      "id": "Jaume Collet-Serra",
-      "movie_count": 6,
-      "type": "Director"
-    },
-    {
-      "id": "Jay Chandrasekhar",
-      "movie_count": 4,
-      "type": "Director"
-    },
-    {
-      "id": "Jay Chandrasekhar (Ac)",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
       "id": "Jay Mohr",
       "movie_count": 4,
       "type": "Actor"
     },
     {
-      "id": "Jay Roach",
-      "movie_count": 8,
-      "type": "Director"
-    },
-    {
       "id": "Jaymes Butler",
       "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Jed Brophy",
-      "movie_count": 4,
       "type": "Actor"
     },
     {
@@ -2161,19 +1116,9 @@
       "type": "Actor"
     },
     {
-      "id": "Jeff Bridges",
-      "movie_count": 22,
-      "type": "Actor"
-    },
-    {
       "id": "Jeff DeRocker",
       "movie_count": 1,
       "type": "Actor"
-    },
-    {
-      "id": "Jeff Tremaine",
-      "movie_count": 3,
-      "type": "Director"
     },
     {
       "id": "Jeffrey DeMunn",
@@ -2181,38 +1126,8 @@
       "type": "Actor"
     },
     {
-      "id": "Jeffrey Weissman",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Jenette Goldstein",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Jenna Elfman",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Jennifer Esposito",
       "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Jennifer Garner",
-      "movie_count": 12,
-      "type": "Actor"
-    },
-    {
-      "id": "Jennifer Jason Leigh",
-      "movie_count": 14,
-      "type": "Actor"
-    },
-    {
-      "id": "Jennifer Lawrence",
-      "movie_count": 15,
       "type": "Actor"
     },
     {
@@ -2226,33 +1141,8 @@
       "type": "Actor"
     },
     {
-      "id": "Jeremy Northam",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Jeremy Shada",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Jesper Christensen",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Jessica Capshaw",
       "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Jessica Simpson",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Jessica Szohr",
-      "movie_count": 4,
       "type": "Actor"
     },
     {
@@ -2286,16 +1176,6 @@
       "type": "Actor"
     },
     {
-      "id": "Joanne Whalley",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Joe Dante",
-      "movie_count": 7,
-      "type": "Director"
-    },
-    {
       "id": "Joe Don Baker",
       "movie_count": 4,
       "type": "Actor"
@@ -2303,21 +1183,6 @@
     {
       "id": "Joe Mantegna",
       "movie_count": 9,
-      "type": "Actor"
-    },
-    {
-      "id": "Joe Morton",
-      "movie_count": 9,
-      "type": "Actor"
-    },
-    {
-      "id": "Joe Viterelli",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Joel David Moore",
-      "movie_count": 6,
       "type": "Actor"
     },
     {
@@ -2351,18 +1216,8 @@
       "type": "Actor"
     },
     {
-      "id": "John de Lancie",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
       "id": "John Doman",
       "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "John Heard",
-      "movie_count": 12,
       "type": "Actor"
     },
     {
@@ -2374,26 +1229,6 @@
       "id": "John Lasseter",
       "movie_count": 5,
       "type": "Director"
-    },
-    {
-      "id": "John Madden",
-      "movie_count": 5,
-      "type": "Director"
-    },
-    {
-      "id": "John McMartin",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "John Michael Higgins",
-      "movie_count": 9,
-      "type": "Actor"
-    },
-    {
-      "id": "John Neville",
-      "movie_count": 2,
-      "type": "Actor"
     },
     {
       "id": "John Ratzenberger",
@@ -2421,18 +1256,8 @@
       "type": "Actor"
     },
     {
-      "id": "Jon Favreau",
-      "movie_count": 5,
-      "type": "Director"
-    },
-    {
       "id": "Jon Favreau (Ac)",
       "movie_count": 18,
-      "type": "Actor"
-    },
-    {
-      "id": "Jon Gries",
-      "movie_count": 8,
       "type": "Actor"
     },
     {
@@ -2451,18 +1276,8 @@
       "type": "Actor"
     },
     {
-      "id": "Jonathan Silverman",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Jordana Brewster",
       "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Jordi MollÃ ",
-      "movie_count": 8,
       "type": "Actor"
     },
     {
@@ -2471,38 +1286,13 @@
       "type": "Actor"
     },
     {
-      "id": "Jose Pablo Cantillo",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
       "id": "Joseph Gordon-Levitt (Ac)",
       "movie_count": 15,
       "type": "Actor"
     },
     {
-      "id": "Joseph Kaiser",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Joseph Sikora",
       "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Josh Gad",
-      "movie_count": 8,
-      "type": "Actor"
-    },
-    {
-      "id": "Josh Hutcherson",
-      "movie_count": 13,
-      "type": "Actor"
-    },
-    {
-      "id": "Josh Zuckerman",
-      "movie_count": 1,
       "type": "Actor"
     },
     {
@@ -2521,16 +1311,6 @@
       "type": "Actor"
     },
     {
-      "id": "Judy Greer",
-      "movie_count": 22,
-      "type": "Actor"
-    },
-    {
-      "id": "Julia Ormond",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
       "id": "Julia Roberts",
       "movie_count": 27,
       "type": "Actor"
@@ -2538,16 +1318,6 @@
     {
       "id": "Julian Glover",
       "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Julian Richings",
-      "movie_count": 8,
-      "type": "Actor"
-    },
-    {
-      "id": "Julie Christie",
-      "movie_count": 2,
       "type": "Actor"
     },
     {
@@ -2566,11 +1336,6 @@
       "type": "Actor"
     },
     {
-      "id": "Karl Johnson",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Kassie Wesley DePaiva",
       "movie_count": 1,
       "type": "Actor"
@@ -2581,28 +1346,8 @@
       "type": "Actor"
     },
     {
-      "id": "Kate Winslet",
-      "movie_count": 20,
-      "type": "Actor"
-    },
-    {
-      "id": "Katherine LaNasa",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Kathleen Quinlan",
       "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Kathleen Turner",
-      "movie_count": 8,
-      "type": "Actor"
-    },
-    {
-      "id": "Katie Lowes",
-      "movie_count": 1,
       "type": "Actor"
     },
     {
@@ -2611,17 +1356,7 @@
       "type": "Actor"
     },
     {
-      "id": "Keanu Reeves",
-      "movie_count": 22,
-      "type": "Actor"
-    },
-    {
       "id": "Keir O'Donnell",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Keith Hudson",
       "movie_count": 1,
       "type": "Actor"
     },
@@ -2631,39 +1366,14 @@
       "type": "Actor"
     },
     {
-      "id": "Kel O'Neill",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Kelly Preston",
       "movie_count": 10,
       "type": "Actor"
     },
     {
-      "id": "Kelsey Grammer",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Ken Foree",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Kenneth Branagh",
-      "movie_count": 7,
-      "type": "Director"
-    },
-    {
       "id": "Kenneth Colley",
       "movie_count": 1,
       "type": "Actor"
-    },
-    {
-      "id": "Kenny Ortega",
-      "movie_count": 4,
-      "type": "Director"
     },
     {
       "id": "Kevin Dunn",
@@ -2696,38 +1406,8 @@
       "type": "Actor"
     },
     {
-      "id": "Kim-Marie Woodhouse",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Kim Delaney",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Kirk Baltz",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Kirsten Dunst",
       "movie_count": 22,
-      "type": "Actor"
-    },
-    {
-      "id": "Kirstie Alley",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Kristen Stewart",
-      "movie_count": 17,
-      "type": "Actor"
-    },
-    {
-      "id": "Kristin Scott Thomas",
-      "movie_count": 12,
       "type": "Actor"
     },
     {
@@ -2736,23 +1416,8 @@
       "type": "Actor"
     },
     {
-      "id": "Kurtwood Smith",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
       "id": "Kyle Gass",
       "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Kyle Schmid",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Larry Bagby",
-      "movie_count": 2,
       "type": "Actor"
     },
     {
@@ -2761,53 +1426,8 @@
       "type": "Actor"
     },
     {
-      "id": "Larry Hankin",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Larry King",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Larry Miller",
-      "movie_count": 9,
-      "type": "Actor"
-    },
-    {
-      "id": "Laura Harris",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Laura San Giacomo",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Laz Alonso",
       "movie_count": 7,
-      "type": "Actor"
-    },
-    {
-      "id": "Lea Thompson",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Lee Majors",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Leigh Whannell (Ac)",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Leland Orser",
-      "movie_count": 3,
       "type": "Actor"
     },
     {
@@ -2836,44 +1456,14 @@
       "type": "Actor"
     },
     {
-      "id": "Lesley Ann Warren",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Lesley Manville",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
       "id": "Leslie Bibb",
       "movie_count": 8,
-      "type": "Actor"
-    },
-    {
-      "id": "Leslie Carlson",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Lester Speight",
-      "movie_count": 1,
       "type": "Actor"
     },
     {
       "id": "Levon Helm",
       "movie_count": 2,
       "type": "Actor"
-    },
-    {
-      "id": "Lew Temple",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Lewis Gilbert",
-      "movie_count": 3,
-      "type": "Director"
     },
     {
       "id": "Liam Neeson",
@@ -2883,31 +1473,6 @@
     {
       "id": "Lili Taylor",
       "movie_count": 8,
-      "type": "Actor"
-    },
-    {
-      "id": "Lily Cole",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Lily James",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Lily Tomlin",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Linda Fiorentino",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Lindsay Price",
-      "movie_count": 1,
       "type": "Actor"
     },
     {
@@ -2921,11 +1486,6 @@
       "type": "Actor"
     },
     {
-      "id": "Liz Mullane",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Liza Minnelli",
       "movie_count": 3,
       "type": "Actor"
@@ -2936,23 +1496,8 @@
       "type": "Actor"
     },
     {
-      "id": "Lois Chiles",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Lois Maxwell",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
       "id": "Louise Lasser",
       "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Lucas Grabeel",
-      "movie_count": 4,
       "type": "Actor"
     },
     {
@@ -2971,16 +1516,6 @@
       "type": "Actor"
     },
     {
-      "id": "Lynn Redgrave",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "M. Emmet Walsh",
-      "movie_count": 8,
-      "type": "Actor"
-    },
-    {
       "id": "Mackenzie Crook",
       "movie_count": 4,
       "type": "Actor"
@@ -2991,33 +1526,8 @@
       "type": "Actor"
     },
     {
-      "id": "Madeline Carroll",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
       "id": "Madeline Kahn",
       "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Mako",
-      "movie_count": 9,
-      "type": "Actor"
-    },
-    {
-      "id": "Marcella Lentz-Pope",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Margot Kidder",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Marie-JosÃ©e Croze",
-      "movie_count": 2,
       "type": "Actor"
     },
     {
@@ -3036,27 +1546,7 @@
       "type": "Actor"
     },
     {
-      "id": "Mark Valley",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
       "id": "Marko Zaror",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Marley Shelton",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Marlon Brando",
-      "movie_count": 9,
-      "type": "Actor"
-    },
-    {
-      "id": "Martin Clunes",
       "movie_count": 1,
       "type": "Actor"
     },
@@ -3086,16 +1576,6 @@
       "type": "Actor"
     },
     {
-      "id": "Mary McCormack",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Mary Tyler Moore",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Mathieu Amalric",
       "movie_count": 2,
       "type": "Actor"
@@ -3103,21 +1583,6 @@
     {
       "id": "Matt Damon",
       "movie_count": 35,
-      "type": "Actor"
-    },
-    {
-      "id": "Matt Prokop",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Matt Stone",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Matthew Broderick",
-      "movie_count": 14,
       "type": "Actor"
     },
     {
@@ -3131,18 +1596,8 @@
       "type": "Actor"
     },
     {
-      "id": "Matthew McGrory",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Maura Tierney",
       "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Maurice LaMarche",
-      "movie_count": 2,
       "type": "Actor"
     },
     {
@@ -3151,19 +1606,9 @@
       "type": "Actor"
     },
     {
-      "id": "Meat Loaf",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
       "id": "Mel Brooks",
       "movie_count": 6,
       "type": "Director"
-    },
-    {
-      "id": "Mel Rodriguez",
-      "movie_count": 1,
-      "type": "Actor"
     },
     {
       "id": "Melanie Griffith",
@@ -3176,18 +1621,8 @@
       "type": "Actor"
     },
     {
-      "id": "Melissa McMeekin",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Meryl Streep",
       "movie_count": 25,
-      "type": "Actor"
-    },
-    {
-      "id": "Method Man",
-      "movie_count": 2,
       "type": "Actor"
     },
     {
@@ -3201,38 +1636,13 @@
       "type": "Actor"
     },
     {
-      "id": "Mia Kirshner",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
       "id": "Michael Angarano",
       "movie_count": 12,
       "type": "Actor"
     },
     {
-      "id": "Michael Bay",
-      "movie_count": 12,
-      "type": "Director"
-    },
-    {
-      "id": "Michael Berryman",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Michael Biehn",
-      "movie_count": 11,
-      "type": "Actor"
-    },
-    {
       "id": "Michael Chernus",
       "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Michael Fassbender",
-      "movie_count": 14,
       "type": "Actor"
     },
     {
@@ -3271,16 +1681,6 @@
       "type": "Actor"
     },
     {
-      "id": "Michael Nouri",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Michael O'Neill",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
       "id": "Michael Parks",
       "movie_count": 1,
       "type": "Actor"
@@ -3296,16 +1696,6 @@
       "type": "Actor"
     },
     {
-      "id": "Michael Stuhlbarg",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Michael Weston",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
       "id": "Michael Winslow",
       "movie_count": 3,
       "type": "Actor"
@@ -3316,24 +1706,9 @@
       "type": "Actor"
     },
     {
-      "id": "Mihalis Giannatos",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Mike Colter",
       "movie_count": 2,
       "type": "Actor"
-    },
-    {
-      "id": "Mike Figueroa",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Mike Leigh",
-      "movie_count": 5,
-      "type": "Director"
     },
     {
       "id": "Mike Starr",
@@ -3356,28 +1731,8 @@
       "type": "Actor"
     },
     {
-      "id": "Mini Anden",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Minnie Driver",
-      "movie_count": 12,
-      "type": "Actor"
-    },
-    {
       "id": "Mira Sorvino",
       "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Miranda Otto",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Miranda Richardson",
-      "movie_count": 9,
       "type": "Actor"
     },
     {
@@ -3388,16 +1743,6 @@
     {
       "id": "Molly Shannon",
       "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Monica Potter",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
-      "id": "Monique Gabriela Curnen",
-      "movie_count": 1,
       "type": "Actor"
     },
     {
@@ -3416,26 +1761,6 @@
       "type": "Actor"
     },
     {
-      "id": "Muse Watson",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Mykelti Williamson",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Nadine Velazquez",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Nancy Allen",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Naomi Watts",
       "movie_count": 18,
       "type": "Actor"
@@ -3451,32 +1776,12 @@
       "type": "Actor"
     },
     {
-      "id": "Nate Parker (Ac)",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
       "id": "Neil Diamond",
       "movie_count": 1,
       "type": "Actor"
     },
     {
-      "id": "Neil Jordan",
-      "movie_count": 8,
-      "type": "Director"
-    },
-    {
-      "id": "Neill Blomkamp",
-      "movie_count": 3,
-      "type": "Director"
-    },
-    {
       "id": "Nellie Sciutto",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Nicholas Rowe",
       "movie_count": 1,
       "type": "Actor"
     },
@@ -3486,23 +1791,8 @@
       "type": "Actor"
     },
     {
-      "id": "Nick Searcy",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Nicolas Cage",
       "movie_count": 31,
-      "type": "Actor"
-    },
-    {
-      "id": "Nicole de Boer",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Nicole Scherzinger",
-      "movie_count": 1,
       "type": "Actor"
     },
     {
@@ -3511,44 +1801,9 @@
       "type": "Actor"
     },
     {
-      "id": "Noah Taylor",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Nolan Gerard Funk",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Nonso Anozie",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Obba BabatundÃ©",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Oksana Akinshina",
       "movie_count": 1,
       "type": "Actor"
-    },
-    {
-      "id": "Olesya Rulin",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Olga Fonda",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Oliver Parker",
-      "movie_count": 4,
-      "type": "Director"
     },
     {
       "id": "Oliver Platt",
@@ -3566,18 +1821,8 @@
       "type": "Actor"
     },
     {
-      "id": "Omar Epps",
-      "movie_count": 8,
-      "type": "Actor"
-    },
-    {
       "id": "Omari Hardwick",
       "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Omri Katz",
-      "movie_count": 1,
       "type": "Actor"
     },
     {
@@ -3606,18 +1851,8 @@
       "type": "Actor"
     },
     {
-      "id": "Owain Yeoman",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Paddy Considine",
       "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Paris Hilton",
-      "movie_count": 2,
       "type": "Actor"
     },
     {
@@ -3641,39 +1876,9 @@
       "type": "Actor"
     },
     {
-      "id": "Patrick Fugit",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Patrick Macnee",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Patton Oswalt",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
       "id": "Paul Greengrass",
       "movie_count": 6,
       "type": "Director"
-    },
-    {
-      "id": "Paul Guilfoyle",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
-      "id": "Paul McGann",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Paul Sanchez",
-      "movie_count": 2,
-      "type": "Actor"
     },
     {
       "id": "Paul Sorvino",
@@ -3691,16 +1896,6 @@
       "type": "Actor"
     },
     {
-      "id": "Paul Winfield",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Pauline McLynn",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Penelope Wilton",
       "movie_count": 4,
       "type": "Actor"
@@ -3711,28 +1906,8 @@
       "type": "Actor"
     },
     {
-      "id": "Peter Coyote",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
       "id": "Peter Dante",
       "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Peter Dinklage",
-      "movie_count": 13,
-      "type": "Actor"
-    },
-    {
-      "id": "Peter Fonda",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Peter Gallagher",
-      "movie_count": 7,
       "type": "Actor"
     },
     {
@@ -3741,33 +1916,13 @@
       "type": "Actor"
     },
     {
-      "id": "Peter Jackson",
-      "movie_count": 9,
-      "type": "Director"
-    },
-    {
       "id": "Peter Marquardt",
       "movie_count": 1,
       "type": "Actor"
     },
     {
-      "id": "Peter Scolari",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Phil Davis",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Philip Seymour Hoffman",
       "movie_count": 24,
-      "type": "Actor"
-    },
-    {
-      "id": "Phoebe Cates",
-      "movie_count": 3,
       "type": "Actor"
     },
     {
@@ -3791,16 +1946,6 @@
       "type": "Actor"
     },
     {
-      "id": "Rainn Wilson",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
-      "id": "Ralph Brown",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Rami Malek",
       "movie_count": 5,
       "type": "Actor"
@@ -3816,11 +1961,6 @@
       "type": "Actor"
     },
     {
-      "id": "Raul Julia",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Raven-SymonÃ©",
       "movie_count": 2,
       "type": "Actor"
@@ -3831,33 +1971,13 @@
       "type": "Actor"
     },
     {
-      "id": "Raza Jaffrey",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Reg E. Cathey",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
       "id": "Reggie Lee",
       "movie_count": 2,
       "type": "Actor"
     },
     {
-      "id": "Reiner Schwarz",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Rene Russo",
       "movie_count": 8,
-      "type": "Actor"
-    },
-    {
-      "id": "Richard Briers",
-      "movie_count": 2,
       "type": "Actor"
     },
     {
@@ -3896,18 +2016,8 @@
       "type": "Actor"
     },
     {
-      "id": "Rie Rasmussen",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Ringo Starr",
       "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Rip Torn",
-      "movie_count": 12,
       "type": "Actor"
     },
     {
@@ -3916,28 +2026,8 @@
       "type": "Actor"
     },
     {
-      "id": "Rob Brown",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Rob Riggle",
-      "movie_count": 9,
-      "type": "Actor"
-    },
-    {
-      "id": "Rob Zombie",
-      "movie_count": 4,
-      "type": "Director"
-    },
-    {
       "id": "Robert De Niro",
       "movie_count": 52,
-      "type": "Actor"
-    },
-    {
-      "id": "Robert Downey Jr.",
-      "movie_count": 27,
       "type": "Actor"
     },
     {
@@ -3951,21 +2041,6 @@
       "type": "Actor"
     },
     {
-      "id": "Robert Pattinson",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
-      "id": "Robert Picardo",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Robert Ri'chard",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
       "id": "Robert Rodriguez",
       "movie_count": 10,
       "type": "Director"
@@ -3974,16 +2049,6 @@
       "id": "Robert Shaw",
       "movie_count": 4,
       "type": "Actor"
-    },
-    {
-      "id": "Robert Wagner",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Robert Zemeckis",
-      "movie_count": 12,
-      "type": "Director"
     },
     {
       "id": "Roberts Blossom",
@@ -3996,49 +2061,9 @@
       "type": "Actor"
     },
     {
-      "id": "Robin Wright",
-      "movie_count": 11,
-      "type": "Actor"
-    },
-    {
-      "id": "Rodney Dangerfield",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Roger Ashton-Griffiths",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Roger Rees",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Roma Maffia",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Romi Aboulafia",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Ron Eldard",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
       "id": "Ron Howard",
       "movie_count": 12,
       "type": "Director"
-    },
-    {
-      "id": "Ronald Pickup",
-      "movie_count": 1,
-      "type": "Actor"
     },
     {
       "id": "Ronald Reagan",
@@ -4071,16 +2096,6 @@
       "type": "Actor"
     },
     {
-      "id": "Rupert Everett",
-      "movie_count": 9,
-      "type": "Actor"
-    },
-    {
-      "id": "Ruth Sheen",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Ruth Wilson",
       "movie_count": 2,
       "type": "Actor"
@@ -4096,11 +2111,6 @@
       "type": "Actor"
     },
     {
-      "id": "SaÃ¯d Taghmaoui",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Sally Hawkins",
       "movie_count": 7,
       "type": "Actor"
@@ -4111,39 +2121,9 @@
       "type": "Actor"
     },
     {
-      "id": "Sam Anderson",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Sam Lerner",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
       "id": "Sam Raimi",
       "movie_count": 10,
       "type": "Director"
-    },
-    {
-      "id": "Sami Gayle",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Sandra Ellis Lafferty",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Sarah Gadon",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Sarah Polley",
-      "movie_count": 8,
-      "type": "Actor"
     },
     {
       "id": "Sasha Roiz",
@@ -4156,28 +2136,13 @@
       "type": "Actor"
     },
     {
-      "id": "Scoot McNairy",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
       "id": "Scott Glenn",
       "movie_count": 17,
       "type": "Actor"
     },
     {
-      "id": "Scott Grimes",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Scott Vance",
       "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Scout Taylor-Compton",
-      "movie_count": 3,
       "type": "Actor"
     },
     {
@@ -4188,21 +2153,6 @@
     {
       "id": "Sean Pertwee",
       "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Sebastian RochÃ©",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Sedona Legge",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Sela Ward",
-      "movie_count": 7,
       "type": "Actor"
     },
     {
@@ -4226,23 +2176,8 @@
       "type": "Actor"
     },
     {
-      "id": "Sharlto Copley",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Shawn Levy",
-      "movie_count": 10,
-      "type": "Director"
-    },
-    {
       "id": "Shawn Roberts",
       "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Shawnee Smith",
-      "movie_count": 6,
       "type": "Actor"
     },
     {
@@ -4257,36 +2192,6 @@
     },
     {
       "id": "Sid Caesar",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Sid Haig",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Simon Callow",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Simon West",
-      "movie_count": 8,
-      "type": "Director"
-    },
-    {
-      "id": "Siobhan Fallon Hogan",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Soleyman Pierini",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Sophia Myles",
       "movie_count": 4,
       "type": "Actor"
     },
@@ -4311,33 +2216,13 @@
       "type": "Actor"
     },
     {
-      "id": "Stephanie Szostak",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Stephen Collins",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
       "id": "Stephen Dillane",
       "movie_count": 6,
       "type": "Actor"
     },
     {
-      "id": "Stephen Rea",
-      "movie_count": 9,
-      "type": "Actor"
-    },
-    {
       "id": "Stephen Root",
       "movie_count": 19,
-      "type": "Actor"
-    },
-    {
-      "id": "Steve-O",
-      "movie_count": 3,
       "type": "Actor"
     },
     {
@@ -4361,11 +2246,6 @@
       "type": "Actor"
     },
     {
-      "id": "Steve Guttenberg",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
       "id": "Steve Harvey",
       "movie_count": 2,
       "type": "Actor"
@@ -4374,21 +2254,6 @@
       "id": "Steve Schirripa",
       "movie_count": 1,
       "type": "Actor"
-    },
-    {
-      "id": "Steven Bauer",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Steven Brill (Ac)",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Steven Soderbergh",
-      "movie_count": 15,
-      "type": "Director"
     },
     {
       "id": "Steven Spielberg",
@@ -4431,23 +2296,8 @@
       "type": "Actor"
     },
     {
-      "id": "Tamsin Egerton",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Taran Killam",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
       "id": "Taylor Lautner",
       "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "TchÃ©ky Karyo",
-      "movie_count": 3,
       "type": "Actor"
     },
     {
@@ -4471,36 +2321,6 @@
       "type": "Actor"
     },
     {
-      "id": "Teri Polo",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
-      "id": "Terrance Zdunich",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Terry Kinney",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Tessa Thompson",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Theresa Randle",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Thomas F. Wilson",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
       "id": "Thomas Kretschmann",
       "movie_count": 9,
       "type": "Actor"
@@ -4508,16 +2328,6 @@
     {
       "id": "Thomas Lennon",
       "movie_count": 12,
-      "type": "Actor"
-    },
-    {
-      "id": "Thomas Middleditch",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Tia Carrere",
-      "movie_count": 6,
       "type": "Actor"
     },
     {
@@ -4531,28 +2341,8 @@
       "type": "Actor"
     },
     {
-      "id": "Tim McInnerny",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Tim Meadows",
       "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Timothy Hutton",
-      "movie_count": 7,
-      "type": "Actor"
-    },
-    {
-      "id": "Tina Desai",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Tina Fey",
-      "movie_count": 7,
       "type": "Actor"
     },
     {
@@ -4563,26 +2353,6 @@
     {
       "id": "Toby Jones",
       "movie_count": 11,
-      "type": "Actor"
-    },
-    {
-      "id": "Toby Stephens",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Todd Graff (Ac)",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Togo Igawa",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Tom Arnold",
-      "movie_count": 6,
       "type": "Actor"
     },
     {
@@ -4616,23 +2386,8 @@
       "type": "Actor"
     },
     {
-      "id": "Tom Waits",
-      "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Tom Welling",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
       "id": "Tom Wilkinson",
       "movie_count": 26,
-      "type": "Actor"
-    },
-    {
-      "id": "Tony Cox",
-      "movie_count": 6,
       "type": "Actor"
     },
     {
@@ -4641,24 +2396,9 @@
       "type": "Actor"
     },
     {
-      "id": "Tony Goldwyn (Ac)",
-      "movie_count": 8,
-      "type": "Actor"
-    },
-    {
-      "id": "Tony Nappo",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
       "id": "Tony Scott",
       "movie_count": 12,
       "type": "Director"
-    },
-    {
-      "id": "Torey Michael Adkins",
-      "movie_count": 1,
-      "type": "Actor"
     },
     {
       "id": "Tracy Camilla Johns",
@@ -4676,16 +2416,6 @@
       "type": "Actor"
     },
     {
-      "id": "Trey Parker",
-      "movie_count": 3,
-      "type": "Director"
-    },
-    {
-      "id": "Trey Parker (Ac)",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
       "id": "Tucker Albrizzi",
       "movie_count": 1,
       "type": "Actor"
@@ -4696,42 +2426,7 @@
       "type": "Actor"
     },
     {
-      "id": "Tye Sheridan",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Tyler Mane",
-      "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Udo Kier",
-      "movie_count": 10,
-      "type": "Actor"
-    },
-    {
-      "id": "Valeria Golino",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
       "id": "Vanessa Lee Chester",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "Vanessa Redgrave",
-      "movie_count": 10,
-      "type": "Actor"
-    },
-    {
-      "id": "Verne Troyer",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
-      "id": "Vic Morrow",
       "movie_count": 2,
       "type": "Actor"
     },
@@ -4751,31 +2446,6 @@
       "type": "Actor"
     },
     {
-      "id": "Vincenzo Natali",
-      "movie_count": 3,
-      "type": "Director"
-    },
-    {
-      "id": "Vinessa Shaw",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
-      "id": "Virginia Madsen",
-      "movie_count": 10,
-      "type": "Actor"
-    },
-    {
-      "id": "Warren Beatty",
-      "movie_count": 3,
-      "type": "Director"
-    },
-    {
-      "id": "Warren Beatty (Ac)",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
       "id": "Warren Clarke",
       "movie_count": 1,
       "type": "Actor"
@@ -4791,28 +2461,13 @@
       "type": "Director"
     },
     {
-      "id": "Wes Studi",
-      "movie_count": 6,
-      "type": "Actor"
-    },
-    {
       "id": "Will Ferrell",
       "movie_count": 30,
       "type": "Actor"
     },
     {
-      "id": "Will Patton",
-      "movie_count": 8,
-      "type": "Actor"
-    },
-    {
       "id": "Will Smith",
       "movie_count": 18,
-      "type": "Actor"
-    },
-    {
-      "id": "William Abadie",
-      "movie_count": 1,
       "type": "Actor"
     },
     {
@@ -4826,26 +2481,6 @@
       "type": "Actor"
     },
     {
-      "id": "William Hurt",
-      "movie_count": 14,
-      "type": "Actor"
-    },
-    {
-      "id": "William Lucking",
-      "movie_count": 2,
-      "type": "Actor"
-    },
-    {
-      "id": "William Smith",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
-      "id": "Willie Garson",
-      "movie_count": 4,
-      "type": "Actor"
-    },
-    {
       "id": "Woody Allen",
       "movie_count": 21,
       "type": "Director"
@@ -4856,18 +2491,8 @@
       "type": "Actor"
     },
     {
-      "id": "Xander Berkeley",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
       "id": "Yuki Matsuzaki",
       "movie_count": 1,
-      "type": "Actor"
-    },
-    {
-      "id": "Zach Galligan",
-      "movie_count": 2,
       "type": "Actor"
     },
     {
@@ -4876,18 +2501,8 @@
       "type": "Actor"
     },
     {
-      "id": "Zack Ward (Ac)",
-      "movie_count": 5,
-      "type": "Actor"
-    },
-    {
       "id": "ZoÃ« Bell",
       "movie_count": 3,
-      "type": "Actor"
-    },
-    {
-      "id": "Zooey Deschanel",
-      "movie_count": 18,
       "type": "Actor"
     }
   ],
@@ -4956,546 +2571,6 @@
       "source": "Adam McKay",
       "target": "Will Ferrell",
       "strength": 5
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Amy Poehler",
-      "strength": 2
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Anna Friel",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Ariel Gade",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Azura Skye",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Beth Grant",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Brad Pitt",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "BrÃ_an F. O'Byrne",
-      "strength": 2
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Bruce Willis",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Bruno Kirby",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Daniel Stern",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Demi Moore",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Dylan Baker",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Ellen Barkin",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Freddie Jones",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Huey Lewis",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "J.T. Walsh",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "James Pickens Jr.",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "John Michael Higgins",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Kirsten Dunst",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Kristen Stewart",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Minnie Driver",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Nicholas Rowe",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Pauline McLynn",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Peter Coyote",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Robert De Niro",
-      "strength": 3
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Robin Williams",
-      "strength": 2
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Robin Wright",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Roger Ashton-Griffiths",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Roma Maffia",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Sam Lerner",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Steve Guttenberg",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Tina Fey",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Tom Cruise",
-      "strength": 1
-    },
-    {
-      "source": "Barry Levinson",
-      "target": "Valeria Golino",
-      "strength": 1
-    },
-    {
-      "source": "Barry Sonnenfeld",
-      "target": "Anjelica Huston",
-      "strength": 1
-    },
-    {
-      "source": "Barry Sonnenfeld",
-      "target": "Bai Ling",
-      "strength": 1
-    },
-    {
-      "source": "Barry Sonnenfeld",
-      "target": "Carel Struycken",
-      "strength": 1
-    },
-    {
-      "source": "Barry Sonnenfeld",
-      "target": "Delroy Lindo",
-      "strength": 1
-    },
-    {
-      "source": "Barry Sonnenfeld",
-      "target": "Janeane Garofalo",
-      "strength": 1
-    },
-    {
-      "source": "Barry Sonnenfeld",
-      "target": "Jon Gries",
-      "strength": 1
-    },
-    {
-      "source": "Barry Sonnenfeld",
-      "target": "Linda Fiorentino",
-      "strength": 1
-    },
-    {
-      "source": "Barry Sonnenfeld",
-      "target": "Michael Stuhlbarg",
-      "strength": 1
-    },
-    {
-      "source": "Barry Sonnenfeld",
-      "target": "Nicole Scherzinger",
-      "strength": 1
-    },
-    {
-      "source": "Barry Sonnenfeld",
-      "target": "Omar Epps",
-      "strength": 1
-    },
-    {
-      "source": "Barry Sonnenfeld",
-      "target": "Raul Julia",
-      "strength": 1
-    },
-    {
-      "source": "Barry Sonnenfeld",
-      "target": "Rene Russo",
-      "strength": 1
-    },
-    {
-      "source": "Barry Sonnenfeld",
-      "target": "Rip Torn",
-      "strength": 1
-    },
-    {
-      "source": "Barry Sonnenfeld",
-      "target": "Salma Hayek",
-      "strength": 1
-    },
-    {
-      "source": "Barry Sonnenfeld",
-      "target": "Will Smith",
-      "strength": 3
-    },
-    {
-      "source": "Barry Sonnenfeld",
-      "target": "Zooey Deschanel",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Al Pacino",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Angie Dickinson",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Billy Drago",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Charles Martin Smith (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Connie Nielsen",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Daniel Stewart Sherman",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "David Margulies",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Dennis Franz",
-      "strength": 2
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Don Cheadle",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "F. Murray Abraham",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Gabrielle Carteris",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Gregg Henry",
-      "strength": 3
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "John Heard",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "John McMartin",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Kel O'Neill",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Kim Delaney",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Kristin Scott Thomas",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Mary Elizabeth Mastrantonio",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Melanie Griffith",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Mia Kirshner",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Mike Figueroa",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Mike Starr",
-      "strength": 2
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Nancy Allen",
-      "strength": 2
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Nicolas Cage",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Peter Coyote",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Rie Rasmussen",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Robert De Niro",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Scarlett Johansson",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Steven Bauer",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Tom Cruise",
-      "strength": 1
-    },
-    {
-      "source": "Brian De Palma",
-      "target": "Vanessa Redgrave",
-      "strength": 1
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Aaron Stanford",
-      "strength": 1
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Bruce Davison",
-      "strength": 2
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Chazz Palminteri",
-      "strength": 1
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Eddie Marsan",
-      "strength": 1
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Ewen Bremner",
-      "strength": 1
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Frank Langella",
-      "strength": 1
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Hugh Jackman",
-      "strength": 3
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Jennifer Lawrence",
-      "strength": 2
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Kevin Pollak",
-      "strength": 1
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Kevin Spacey (Ac)",
-      "strength": 2
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Marlon Brando",
-      "strength": 1
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Michael Fassbender",
-      "strength": 1
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Peter Dinklage",
-      "strength": 1
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Ralph Brown",
-      "strength": 1
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Thomas Kretschmann",
-      "strength": 1
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Tom Cruise",
-      "strength": 1
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Tom Wilkinson",
-      "strength": 1
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Tye Sheridan",
-      "strength": 1
-    },
-    {
-      "source": "Bryan Singer",
-      "target": "Tyler Mane",
-      "strength": 1
-    },
-    {
-      "source": "Christopher Guest",
-      "target": "Catherine O'Hara",
-      "strength": 3
-    },
-    {
-      "source": "Christopher Guest",
-      "target": "Christopher Guest (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Christopher Guest",
-      "target": "Ed Begley Jr.",
-      "strength": 1
-    },
-    {
-      "source": "Christopher Guest",
-      "target": "Fred Willard",
-      "strength": 1
-    },
-    {
-      "source": "Christopher Guest",
-      "target": "John Michael Higgins",
-      "strength": 2
-    },
-    {
-      "source": "Christopher Guest",
-      "target": "Larry Miller",
-      "strength": 1
-    },
-    {
-      "source": "Christopher Guest",
-      "target": "Laura Harris",
-      "strength": 1
-    },
-    {
-      "source": "Christopher Guest",
-      "target": "Michael McKean",
-      "strength": 2
     },
     {
       "source": "Christopher Nolan",
@@ -5893,431 +2968,6 @@
       "strength": 1
     },
     {
-      "source": "Darren Lynn Bousman",
-      "target": "Alexa PenaVega",
-      "strength": 1
-    },
-    {
-      "source": "Darren Lynn Bousman",
-      "target": "Angus Macfadyen",
-      "strength": 1
-    },
-    {
-      "source": "Darren Lynn Bousman",
-      "target": "Barry Bostwick",
-      "strength": 1
-    },
-    {
-      "source": "Darren Lynn Bousman",
-      "target": "Costas Mandylor",
-      "strength": 2
-    },
-    {
-      "source": "Darren Lynn Bousman",
-      "target": "Emmanuelle Vaugier",
-      "strength": 1
-    },
-    {
-      "source": "Darren Lynn Bousman",
-      "target": "Leigh Whannell (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Darren Lynn Bousman",
-      "target": "Paris Hilton",
-      "strength": 1
-    },
-    {
-      "source": "Darren Lynn Bousman",
-      "target": "Paul Sorvino",
-      "strength": 2
-    },
-    {
-      "source": "Darren Lynn Bousman",
-      "target": "Shawnee Smith",
-      "strength": 3
-    },
-    {
-      "source": "Darren Lynn Bousman",
-      "target": "Terrance Zdunich",
-      "strength": 1
-    },
-    {
-      "source": "Darren Lynn Bousman",
-      "target": "Tony Nappo",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Anthony Zerbe",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Callum Rennie",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Debbie Harry",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Herbert Lom",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Jennifer Jason Leigh",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "John Neville",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Kyle Schmid",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Leslie Carlson",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Lynn Redgrave",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Michael Fassbender",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Miranda Richardson",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Naomi Watts",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Raza Jaffrey",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Reiner Schwarz",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Sarah Gadon",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Sarah Polley",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Tom Skerritt",
-      "strength": 1
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "Viggo Mortensen",
-      "strength": 3
-    },
-    {
-      "source": "David Cronenberg",
-      "target": "William Hurt",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Andrew Garfield",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Anthony Edwards",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Armin Mueller-Stahl",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Brad Pitt",
-      "strength": 3
-    },
-    {
-      "source": "David Fincher",
-      "target": "Charles Martinet",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Charles S. Dutton (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Deborah Kara Unger",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Dustin Fitzsimons",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Dwight Yoakam",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Emily Ratajkowski",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Eugenie Bondurant",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Goran Visnjic",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Holt McCallany",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Jake Gyllenhaal",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Jason Flemyng",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Joely Richardson",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Julia Ormond",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Kristen Stewart",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Marcella Lentz-Pope",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Meat Loaf",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Mel Rodriguez",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Morgan Freeman",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Patrick Fugit",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Paul McGann",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Reg E. Cathey",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Robert Downey Jr.",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Robin Wright",
-      "strength": 1
-    },
-    {
-      "source": "David Fincher",
-      "target": "Sela Ward",
-      "strength": 1
-    },
-    {
-      "source": "David O. Russell",
-      "target": "Beverly D'Angelo",
-      "strength": 1
-    },
-    {
-      "source": "David O. Russell",
-      "target": "Bradley Cooper",
-      "strength": 3
-    },
-    {
-      "source": "David O. Russell",
-      "target": "Christian Bale",
-      "strength": 2
-    },
-    {
-      "source": "David O. Russell",
-      "target": "David Patrick Kelly",
-      "strength": 1
-    },
-    {
-      "source": "David O. Russell",
-      "target": "Isabelle Huppert",
-      "strength": 1
-    },
-    {
-      "source": "David O. Russell",
-      "target": "Jack McGee",
-      "strength": 1
-    },
-    {
-      "source": "David O. Russell",
-      "target": "Jake Gyllenhaal",
-      "strength": 1
-    },
-    {
-      "source": "David O. Russell",
-      "target": "Jamie Kennedy",
-      "strength": 1
-    },
-    {
-      "source": "David O. Russell",
-      "target": "Jennifer Lawrence",
-      "strength": 3
-    },
-    {
-      "source": "David O. Russell",
-      "target": "Judy Greer",
-      "strength": 1
-    },
-    {
-      "source": "David O. Russell",
-      "target": "Kirstie Alley",
-      "strength": 1
-    },
-    {
-      "source": "David O. Russell",
-      "target": "Lily Tomlin",
-      "strength": 2
-    },
-    {
-      "source": "David O. Russell",
-      "target": "Mary Tyler Moore",
-      "strength": 1
-    },
-    {
-      "source": "David O. Russell",
-      "target": "Melissa McMeekin",
-      "strength": 1
-    },
-    {
-      "source": "David O. Russell",
-      "target": "Mykelti Williamson",
-      "strength": 1
-    },
-    {
-      "source": "David O. Russell",
-      "target": "Naomi Watts",
-      "strength": 1
-    },
-    {
-      "source": "David O. Russell",
-      "target": "Robert De Niro",
-      "strength": 2
-    },
-    {
-      "source": "David Twohy",
-      "target": "Alexa Davalos",
-      "strength": 1
-    },
-    {
-      "source": "David Twohy",
-      "target": "Bokeem Woodbine",
-      "strength": 1
-    },
-    {
-      "source": "David Twohy",
-      "target": "Chris Hemsworth",
-      "strength": 1
-    },
-    {
-      "source": "David Twohy",
-      "target": "Christina Cox",
-      "strength": 1
-    },
-    {
-      "source": "David Twohy",
-      "target": "Cole Hauser",
-      "strength": 1
-    },
-    {
-      "source": "David Twohy",
-      "target": "Marley Shelton",
-      "strength": 1
-    },
-    {
-      "source": "David Twohy",
-      "target": "Milla Jovovich",
-      "strength": 1
-    },
-    {
-      "source": "David Twohy",
-      "target": "Nolan Gerard Funk",
-      "strength": 1
-    },
-    {
-      "source": "David Twohy",
-      "target": "Radha Mitchell",
-      "strength": 1
-    },
-    {
-      "source": "David Twohy",
-      "target": "Vin Diesel",
-      "strength": 3
-    },
-    {
       "source": "Dennis Dugan",
       "target": "Adam Sandler",
       "strength": 5
@@ -6381,301 +3031,6 @@
       "source": "Dennis Dugan",
       "target": "Tim Meadows",
       "strength": 2
-    },
-    {
-      "source": "Edward Zwick",
-      "target": "Anthony Hopkins",
-      "strength": 1
-    },
-    {
-      "source": "Edward Zwick",
-      "target": "Brad Pitt",
-      "strength": 1
-    },
-    {
-      "source": "Edward Zwick",
-      "target": "Bruce Willis",
-      "strength": 1
-    },
-    {
-      "source": "Edward Zwick",
-      "target": "Chad Lindberg",
-      "strength": 1
-    },
-    {
-      "source": "Edward Zwick",
-      "target": "Denzel Washington (Ac)",
-      "strength": 3
-    },
-    {
-      "source": "Edward Zwick",
-      "target": "Djimon Hounsou",
-      "strength": 1
-    },
-    {
-      "source": "Edward Zwick",
-      "target": "Julia Ormond",
-      "strength": 1
-    },
-    {
-      "source": "Edward Zwick",
-      "target": "Leonardo DiCaprio",
-      "strength": 1
-    },
-    {
-      "source": "Edward Zwick",
-      "target": "Mark Valley",
-      "strength": 1
-    },
-    {
-      "source": "Edward Zwick",
-      "target": "Matt Damon",
-      "strength": 1
-    },
-    {
-      "source": "Edward Zwick",
-      "target": "Matthew Broderick",
-      "strength": 1
-    },
-    {
-      "source": "Edward Zwick",
-      "target": "Morgan Freeman",
-      "strength": 1
-    },
-    {
-      "source": "Edward Zwick",
-      "target": "Scott Glenn",
-      "strength": 1
-    },
-    {
-      "source": "Edward Zwick",
-      "target": "Stephen Collins",
-      "strength": 1
-    },
-    {
-      "source": "Edward Zwick",
-      "target": "Tom Cruise",
-      "strength": 1
-    },
-    {
-      "source": "Edward Zwick",
-      "target": "Tony Goldwyn (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Eric Darnell",
-      "target": "Andy Richter",
-      "strength": 2
-    },
-    {
-      "source": "Eric Darnell",
-      "target": "Anne Bancroft",
-      "strength": 1
-    },
-    {
-      "source": "Eric Darnell",
-      "target": "Annet Mahendru",
-      "strength": 1
-    },
-    {
-      "source": "Eric Darnell",
-      "target": "Benedict Cumberbatch",
-      "strength": 1
-    },
-    {
-      "source": "Eric Darnell",
-      "target": "Bernie Mac",
-      "strength": 1
-    },
-    {
-      "source": "Eric Darnell",
-      "target": "Cedric the Entertainer",
-      "strength": 3
-    },
-    {
-      "source": "Eric Darnell",
-      "target": "Jada Pinkett Smith",
-      "strength": 3
-    },
-    {
-      "source": "Eric Darnell",
-      "target": "Martin Short",
-      "strength": 1
-    },
-    {
-      "source": "Eric Darnell",
-      "target": "Sylvester Stallone (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Eric Darnell",
-      "target": "Woody Allen (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Al Pacino",
-      "strength": 3
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Alden Ehrenreich",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Anthony Hopkins",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Bob Hoskins",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Bridget Fonda",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Bruce Dern",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Cindy Williams",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Dean Stockwell",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Fred Gwynne",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Gary Oldman",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Harrison Ford",
-      "strength": 2
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Joan Allen",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Joanne Whalley",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Joe Mantegna",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Kathleen Turner",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Keanu Reeves",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Marlon Brando",
-      "strength": 2
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Matt Damon",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Nicolas Cage",
-      "strength": 2
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Robert De Niro",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Robert Duvall (Ac)",
-      "strength": 3
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Teri Garr",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Tom Cruise",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Tom Waits",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "Virginia Madsen",
-      "strength": 1
-    },
-    {
-      "source": "Francis Ford Coppola",
-      "target": "William Smith",
-      "strength": 1
-    },
-    {
-      "source": "Francis Lawrence",
-      "target": "Christoph Waltz",
-      "strength": 1
-    },
-    {
-      "source": "Francis Lawrence",
-      "target": "James Frain",
-      "strength": 1
-    },
-    {
-      "source": "Francis Lawrence",
-      "target": "Jennifer Lawrence",
-      "strength": 3
-    },
-    {
-      "source": "Francis Lawrence",
-      "target": "Josh Hutcherson",
-      "strength": 3
-    },
-    {
-      "source": "Francis Lawrence",
-      "target": "Philip Seymour Hoffman",
-      "strength": 2
-    },
-    {
-      "source": "Francis Lawrence",
-      "target": "Robert Pattinson",
-      "strength": 1
-    },
-    {
-      "source": "Francis Lawrence",
-      "target": "Sandra Ellis Lafferty",
-      "strength": 1
     },
     {
       "source": "Frank Coraci",
@@ -6963,701 +3318,6 @@
       "strength": 1
     },
     {
-      "source": "Gus Van Sant",
-      "target": "Casey Affleck",
-      "strength": 1
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "Denis O'Hare",
-      "strength": 1
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "F. Murray Abraham",
-      "strength": 1
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "Flea",
-      "strength": 1
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "Hal Holbrook",
-      "strength": 1
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "Holland Taylor",
-      "strength": 1
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "James Franco",
-      "strength": 1
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "Keanu Reeves",
-      "strength": 1
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "Kurtwood Smith",
-      "strength": 1
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "Lucas Grabeel",
-      "strength": 1
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "Matt Damon",
-      "strength": 3
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "Michael Nouri",
-      "strength": 1
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "Minnie Driver",
-      "strength": 1
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "Rob Brown",
-      "strength": 1
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "Robin Williams",
-      "strength": 1
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "Terry Kinney",
-      "strength": 1
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "Udo Kier",
-      "strength": 1
-    },
-    {
-      "source": "Gus Van Sant",
-      "target": "Wayne Knight",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Beverly D'Angelo",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Bill Murray",
-      "strength": 2
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Brendan Fraser",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Brian Doyle-Murray",
-      "strength": 3
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Cathy Moriarty",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Chazz Palminteri",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Chris Elliott",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Frances O'Connor",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Jane Krakowski",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Joe Viterelli",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "John de Lancie",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Molly Shannon",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Obba BabatundÃ©",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Oliver Platt",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Olivia Wilde",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Randy Quaid",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Robert De Niro",
-      "strength": 2
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Rodney Dangerfield",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Willie Garson",
-      "strength": 1
-    },
-    {
-      "source": "Harold Ramis",
-      "target": "Xander Berkeley",
-      "strength": 1
-    },
-    {
-      "source": "James Cameron",
-      "target": "Brian Thompson",
-      "strength": 1
-    },
-    {
-      "source": "James Cameron",
-      "target": "Carrie Henn",
-      "strength": 1
-    },
-    {
-      "source": "James Cameron",
-      "target": "CCH Pounder",
-      "strength": 1
-    },
-    {
-      "source": "James Cameron",
-      "target": "Gloria Stuart",
-      "strength": 1
-    },
-    {
-      "source": "James Cameron",
-      "target": "Jamie Lee Curtis",
-      "strength": 1
-    },
-    {
-      "source": "James Cameron",
-      "target": "Jenette Goldstein",
-      "strength": 2
-    },
-    {
-      "source": "James Cameron",
-      "target": "Joe Morton",
-      "strength": 1
-    },
-    {
-      "source": "James Cameron",
-      "target": "Joel David Moore",
-      "strength": 1
-    },
-    {
-      "source": "James Cameron",
-      "target": "Kate Winslet",
-      "strength": 1
-    },
-    {
-      "source": "James Cameron",
-      "target": "Leonardo DiCaprio",
-      "strength": 1
-    },
-    {
-      "source": "James Cameron",
-      "target": "Mary Elizabeth Mastrantonio",
-      "strength": 1
-    },
-    {
-      "source": "James Cameron",
-      "target": "Michael Biehn",
-      "strength": 3
-    },
-    {
-      "source": "James Cameron",
-      "target": "Paul Winfield",
-      "strength": 1
-    },
-    {
-      "source": "James Cameron",
-      "target": "S. Epatha Merkerson",
-      "strength": 1
-    },
-    {
-      "source": "James Cameron",
-      "target": "Tia Carrere",
-      "strength": 1
-    },
-    {
-      "source": "James Cameron",
-      "target": "Todd Graff (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "James Cameron",
-      "target": "Tom Arnold",
-      "strength": 1
-    },
-    {
-      "source": "James Cameron",
-      "target": "Wes Studi",
-      "strength": 1
-    },
-    {
-      "source": "Jason Friedberg",
-      "target": "Anneliese van der Pol",
-      "strength": 1
-    },
-    {
-      "source": "Jason Friedberg",
-      "target": "Carmen Electra",
-      "strength": 3
-    },
-    {
-      "source": "Jason Friedberg",
-      "target": "Dave Foley",
-      "strength": 1
-    },
-    {
-      "source": "Jason Friedberg",
-      "target": "David Carradine",
-      "strength": 1
-    },
-    {
-      "source": "Jason Friedberg",
-      "target": "Diedrich Bader",
-      "strength": 2
-    },
-    {
-      "source": "Jason Friedberg",
-      "target": "Fred Willard",
-      "strength": 1
-    },
-    {
-      "source": "Jason Friedberg",
-      "target": "Ike Barinholtz",
-      "strength": 1
-    },
-    {
-      "source": "Jason Friedberg",
-      "target": "Method Man",
-      "strength": 1
-    },
-    {
-      "source": "Jason Friedberg",
-      "target": "Tony Cox",
-      "strength": 1
-    },
-    {
-      "source": "Jason Reitman",
-      "target": "Anna Kendrick",
-      "strength": 1
-    },
-    {
-      "source": "Jason Reitman",
-      "target": "Brooke Smith",
-      "strength": 1
-    },
-    {
-      "source": "Jason Reitman",
-      "target": "Charlize Theron",
-      "strength": 1
-    },
-    {
-      "source": "Jason Reitman",
-      "target": "Chris Lowell",
-      "strength": 1
-    },
-    {
-      "source": "Jason Reitman",
-      "target": "Collette Wolfe",
-      "strength": 1
-    },
-    {
-      "source": "Jason Reitman",
-      "target": "J.K. Simmons",
-      "strength": 3
-    },
-    {
-      "source": "Jason Reitman",
-      "target": "Jennifer Garner",
-      "strength": 1
-    },
-    {
-      "source": "Jason Reitman",
-      "target": "Kate Winslet",
-      "strength": 1
-    },
-    {
-      "source": "Jason Reitman",
-      "target": "Patton Oswalt",
-      "strength": 1
-    },
-    {
-      "source": "Jason Reitman",
-      "target": "Rainn Wilson",
-      "strength": 1
-    },
-    {
-      "source": "Jaume Collet-Serra",
-      "target": "Aidan Quinn",
-      "strength": 1
-    },
-    {
-      "source": "Jaume Collet-Serra",
-      "target": "Aryana Engineer",
-      "strength": 1
-    },
-    {
-      "source": "Jaume Collet-Serra",
-      "target": "Brett Cullen",
-      "strength": 1
-    },
-    {
-      "source": "Jaume Collet-Serra",
-      "target": "Brian Van Holt",
-      "strength": 1
-    },
-    {
-      "source": "Jaume Collet-Serra",
-      "target": "Bruce McGill",
-      "strength": 1
-    },
-    {
-      "source": "Jaume Collet-Serra",
-      "target": "CCH Pounder",
-      "strength": 1
-    },
-    {
-      "source": "Jaume Collet-Serra",
-      "target": "Common",
-      "strength": 1
-    },
-    {
-      "source": "Jaume Collet-Serra",
-      "target": "Frank Langella",
-      "strength": 1
-    },
-    {
-      "source": "Jaume Collet-Serra",
-      "target": "Ã“scar Jaenada",
-      "strength": 1
-    },
-    {
-      "source": "Jaume Collet-Serra",
-      "target": "Jimmy Bennett",
-      "strength": 1
-    },
-    {
-      "source": "Jaume Collet-Serra",
-      "target": "Liam Neeson",
-      "strength": 3
-    },
-    {
-      "source": "Jaume Collet-Serra",
-      "target": "Nate Parker (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Jaume Collet-Serra",
-      "target": "Paris Hilton",
-      "strength": 1
-    },
-    {
-      "source": "Jaume Collet-Serra",
-      "target": "Robert Ri'chard",
-      "strength": 1
-    },
-    {
-      "source": "Jaume Collet-Serra",
-      "target": "Scoot McNairy",
-      "strength": 1
-    },
-    {
-      "source": "Jaume Collet-Serra",
-      "target": "Sedona Legge",
-      "strength": 1
-    },
-    {
-      "source": "Jay Chandrasekhar",
-      "target": "Alice Greczyn",
-      "strength": 1
-    },
-    {
-      "source": "Jay Chandrasekhar",
-      "target": "Brittany Daniel",
-      "strength": 1
-    },
-    {
-      "source": "Jay Chandrasekhar",
-      "target": "Chris Moss",
-      "strength": 1
-    },
-    {
-      "source": "Jay Chandrasekhar",
-      "target": "Daniel von Bargen",
-      "strength": 1
-    },
-    {
-      "source": "Jay Chandrasekhar",
-      "target": "Geoffrey Arend",
-      "strength": 1
-    },
-    {
-      "source": "Jay Chandrasekhar",
-      "target": "Jay Chandrasekhar (Ac)",
-      "strength": 3
-    },
-    {
-      "source": "Jay Chandrasekhar",
-      "target": "Jessica Simpson",
-      "strength": 1
-    },
-    {
-      "source": "Jay Chandrasekhar",
-      "target": "Lindsay Price",
-      "strength": 1
-    },
-    {
-      "source": "Jay Chandrasekhar",
-      "target": "Michael Weston",
-      "strength": 1
-    },
-    {
-      "source": "Jay Chandrasekhar",
-      "target": "Owain Yeoman",
-      "strength": 1
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Blythe Danner",
-      "strength": 2
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Bruce Greenwood",
-      "strength": 1
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Charles Napier",
-      "strength": 1
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Josh Zuckerman",
-      "strength": 1
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Katherine LaNasa",
-      "strength": 1
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Mary McCormack",
-      "strength": 1
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Muse Watson",
-      "strength": 1
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Robert De Niro",
-      "strength": 2
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Robert Wagner",
-      "strength": 3
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Ron Eldard",
-      "strength": 1
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Scott Grimes",
-      "strength": 1
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Stephanie Szostak",
-      "strength": 1
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Steve Carell",
-      "strength": 1
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Teri Polo",
-      "strength": 2
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Thomas Middleditch",
-      "strength": 1
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Verne Troyer",
-      "strength": 2
-    },
-    {
-      "source": "Jay Roach",
-      "target": "Will Ferrell",
-      "strength": 2
-    },
-    {
-      "source": "Jeff Tremaine",
-      "target": "Bam Margera",
-      "strength": 3
-    },
-    {
-      "source": "Jeff Tremaine",
-      "target": "Chris Pontius",
-      "strength": 3
-    },
-    {
-      "source": "Jeff Tremaine",
-      "target": "Steve-O",
-      "strength": 3
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Al Leong",
-      "strength": 1
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Albert Brooks (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Brendan Fraser",
-      "strength": 1
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Bruce Dern",
-      "strength": 1
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Christopher Lee",
-      "strength": 1
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Dee Wallace",
-      "strength": 1
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Denis Leary",
-      "strength": 1
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Haley Bennett",
-      "strength": 1
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Harry Carey Jr.",
-      "strength": 1
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Heather Locklear",
-      "strength": 1
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Jenna Elfman",
-      "strength": 1
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Kirsten Dunst",
-      "strength": 1
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Patrick Macnee",
-      "strength": 1
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Phoebe Cates",
-      "strength": 2
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Robert Picardo",
-      "strength": 3
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Teri Polo",
-      "strength": 1
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Vic Morrow",
-      "strength": 1
-    },
-    {
-      "source": "Joe Dante",
-      "target": "Zach Galligan",
-      "strength": 1
-    },
-    {
       "source": "John Lasseter",
       "target": "Cheech Marin",
       "strength": 1
@@ -7710,246 +3370,6 @@
     {
       "source": "John Lasseter",
       "target": "Wayne Knight",
-      "strength": 1
-    },
-    {
-      "source": "John Madden",
-      "target": "Celia Imrie",
-      "strength": 2
-    },
-    {
-      "source": "John Madden",
-      "target": "Christian Bale",
-      "strength": 1
-    },
-    {
-      "source": "John Madden",
-      "target": "Irene Papas",
-      "strength": 1
-    },
-    {
-      "source": "John Madden",
-      "target": "Jesper Christensen",
-      "strength": 1
-    },
-    {
-      "source": "John Madden",
-      "target": "Martin Clunes",
-      "strength": 1
-    },
-    {
-      "source": "John Madden",
-      "target": "Mihalis Giannatos",
-      "strength": 1
-    },
-    {
-      "source": "John Madden",
-      "target": "Penelope Wilton",
-      "strength": 1
-    },
-    {
-      "source": "John Madden",
-      "target": "Romi Aboulafia",
-      "strength": 1
-    },
-    {
-      "source": "John Madden",
-      "target": "Ronald Pickup",
-      "strength": 1
-    },
-    {
-      "source": "John Madden",
-      "target": "Simon Callow",
-      "strength": 1
-    },
-    {
-      "source": "John Madden",
-      "target": "Tina Desai",
-      "strength": 1
-    },
-    {
-      "source": "John Madden",
-      "target": "Tom Wilkinson",
-      "strength": 3
-    },
-    {
-      "source": "Jon Favreau",
-      "target": "Bill Murray",
-      "strength": 1
-    },
-    {
-      "source": "Jon Favreau",
-      "target": "Faizon Love",
-      "strength": 1
-    },
-    {
-      "source": "Jon Favreau",
-      "target": "Garry Shandling",
-      "strength": 1
-    },
-    {
-      "source": "Jon Favreau",
-      "target": "Jeff Bridges",
-      "strength": 1
-    },
-    {
-      "source": "Jon Favreau",
-      "target": "Jon Favreau (Ac)",
-      "strength": 3
-    },
-    {
-      "source": "Jon Favreau",
-      "target": "Jonathan Silverman",
-      "strength": 1
-    },
-    {
-      "source": "Jon Favreau",
-      "target": "Peter Dinklage",
-      "strength": 1
-    },
-    {
-      "source": "Jon Favreau",
-      "target": "Robert Downey Jr.",
-      "strength": 2
-    },
-    {
-      "source": "Jon Favreau",
-      "target": "Scarlett Johansson",
-      "strength": 2
-    },
-    {
-      "source": "Jon Favreau",
-      "target": "Will Ferrell",
-      "strength": 1
-    },
-    {
-      "source": "Jon Favreau",
-      "target": "Zooey Deschanel",
-      "strength": 1
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Amy Carson",
-      "strength": 1
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Anthony Hopkins",
-      "strength": 1
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Brian Blessed",
-      "strength": 3
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Chris Hemsworth",
-      "strength": 1
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Colm Feore",
-      "strength": 1
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Danny Webb",
-      "strength": 1
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Denzel Washington (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Derek Jacobi",
-      "strength": 2
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Gemma Chan",
-      "strength": 1
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Hayley Atwell",
-      "strength": 1
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Joseph Kaiser",
-      "strength": 1
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Julie Christie",
-      "strength": 1
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Keanu Reeves",
-      "strength": 1
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Kim-Marie Woodhouse",
-      "strength": 1
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Lily James",
-      "strength": 1
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Natalie Portman",
-      "strength": 1
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Nonso Anozie",
-      "strength": 1
-    },
-    {
-      "source": "Kenneth Branagh",
-      "target": "Richard Briers",
-      "strength": 1
-    },
-    {
-      "source": "Kenny Ortega",
-      "target": "Corbin Bleu",
-      "strength": 3
-    },
-    {
-      "source": "Kenny Ortega",
-      "target": "Larry Bagby",
-      "strength": 1
-    },
-    {
-      "source": "Kenny Ortega",
-      "target": "Lucas Grabeel",
-      "strength": 3
-    },
-    {
-      "source": "Kenny Ortega",
-      "target": "Matt Prokop",
-      "strength": 1
-    },
-    {
-      "source": "Kenny Ortega",
-      "target": "Olesya Rulin",
-      "strength": 2
-    },
-    {
-      "source": "Kenny Ortega",
-      "target": "Omri Katz",
-      "strength": 1
-    },
-    {
-      "source": "Kenny Ortega",
-      "target": "Vinessa Shaw",
       "strength": 1
     },
     {
@@ -8065,41 +3485,6 @@
     {
       "source": "Kevin Smith",
       "target": "Will Ferrell",
-      "strength": 1
-    },
-    {
-      "source": "Lewis Gilbert",
-      "target": "Barbara Bach",
-      "strength": 1
-    },
-    {
-      "source": "Lewis Gilbert",
-      "target": "Burt Kwouk",
-      "strength": 1
-    },
-    {
-      "source": "Lewis Gilbert",
-      "target": "Caroline Munro",
-      "strength": 1
-    },
-    {
-      "source": "Lewis Gilbert",
-      "target": "Desmond Llewelyn",
-      "strength": 3
-    },
-    {
-      "source": "Lewis Gilbert",
-      "target": "Donald Pleasence",
-      "strength": 1
-    },
-    {
-      "source": "Lewis Gilbert",
-      "target": "Lois Chiles",
-      "strength": 1
-    },
-    {
-      "source": "Lewis Gilbert",
-      "target": "Lois Maxwell",
       "strength": 1
     },
     {
@@ -8378,161 +3763,6 @@
       "strength": 1
     },
     {
-      "source": "Michael Bay",
-      "target": "Bingbing Li",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Bokeem Woodbine",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Bruce Willis",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "David Costabile",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Djimon Hounsou",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Dwayne Johnson",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Glenn Morshower",
-      "strength": 2
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Henry Rollins",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Jaime King",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "James Badge Dale",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Jennifer Garner",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Jordi MollÃ ",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Kelsey Grammer",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Kevin Dunn",
-      "strength": 3
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Larry Hankin",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Lester Speight",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Mako",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Michael Biehn",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Michael O'Neill",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Michael Rispoli",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Nicolas Cage",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Ramon Rodriguez",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Scarlett Johansson",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Sophia Myles",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Steve Buscemi (Ac)",
-      "strength": 2
-    },
-    {
-      "source": "Michael Bay",
-      "target": "TchÃ©ky Karyo",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Theresa Randle",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Toby Stephens",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Will Patton",
-      "strength": 1
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Will Smith",
-      "strength": 2
-    },
-    {
-      "source": "Michael Bay",
-      "target": "Zack Ward (Ac)",
-      "strength": 1
-    },
-    {
       "source": "Michael Moore",
       "target": "Bernie Sanders",
       "strength": 1
@@ -8595,251 +3825,6 @@
     {
       "source": "Michael Moore",
       "target": "Tucker Albrizzi",
-      "strength": 1
-    },
-    {
-      "source": "Mike Leigh",
-      "target": "Dexter Fletcher (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Mike Leigh",
-      "target": "Eddie Marsan",
-      "strength": 1
-    },
-    {
-      "source": "Mike Leigh",
-      "target": "Gary McDonald",
-      "strength": 1
-    },
-    {
-      "source": "Mike Leigh",
-      "target": "Imelda Staunton",
-      "strength": 2
-    },
-    {
-      "source": "Mike Leigh",
-      "target": "Jim Broadbent",
-      "strength": 2
-    },
-    {
-      "source": "Mike Leigh",
-      "target": "Karl Johnson",
-      "strength": 1
-    },
-    {
-      "source": "Mike Leigh",
-      "target": "Lesley Manville",
-      "strength": 3
-    },
-    {
-      "source": "Mike Leigh",
-      "target": "Phil Davis",
-      "strength": 1
-    },
-    {
-      "source": "Mike Leigh",
-      "target": "Ruth Sheen",
-      "strength": 2
-    },
-    {
-      "source": "Mike Leigh",
-      "target": "Sally Hawkins",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Aidan Quinn",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Alan Rickman",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Alicja Bachleda",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Brad Pitt",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Demi Moore",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Emir Kusturica",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Ian Hart",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "James Bolam",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "James Russo",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Jim Broadbent",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Julia Roberts",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Kirsten Dunst",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Liam Neeson",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Miranda Richardson",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Paul Guilfoyle",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Robert De Niro",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Robert Downey Jr.",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "SaÃ¯d Taghmaoui",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Stephen Rea",
-      "strength": 3
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "TchÃ©ky Karyo",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Tom Cruise",
-      "strength": 1
-    },
-    {
-      "source": "Neil Jordan",
-      "target": "Tony Curran",
-      "strength": 1
-    },
-    {
-      "source": "Neill Blomkamp",
-      "target": "Alice Braga",
-      "strength": 1
-    },
-    {
-      "source": "Neill Blomkamp",
-      "target": "Hugh Jackman",
-      "strength": 1
-    },
-    {
-      "source": "Neill Blomkamp",
-      "target": "Jason Cope",
-      "strength": 1
-    },
-    {
-      "source": "Neill Blomkamp",
-      "target": "Jed Brophy",
-      "strength": 1
-    },
-    {
-      "source": "Neill Blomkamp",
-      "target": "Jose Pablo Cantillo",
-      "strength": 1
-    },
-    {
-      "source": "Neill Blomkamp",
-      "target": "Matt Damon",
-      "strength": 1
-    },
-    {
-      "source": "Neill Blomkamp",
-      "target": "Sharlto Copley",
-      "strength": 3
-    },
-    {
-      "source": "Oliver Parker",
-      "target": "Colin Firth",
-      "strength": 1
-    },
-    {
-      "source": "Oliver Parker",
-      "target": "Daniel Kaluuya",
-      "strength": 1
-    },
-    {
-      "source": "Oliver Parker",
-      "target": "Jeremy Northam",
-      "strength": 1
-    },
-    {
-      "source": "Oliver Parker",
-      "target": "Lily Cole",
-      "strength": 1
-    },
-    {
-      "source": "Oliver Parker",
-      "target": "Minnie Driver",
-      "strength": 1
-    },
-    {
-      "source": "Oliver Parker",
-      "target": "Rupert Everett",
-      "strength": 3
-    },
-    {
-      "source": "Oliver Parker",
-      "target": "Tamsin Egerton",
-      "strength": 1
-    },
-    {
-      "source": "Oliver Parker",
-      "target": "Tim McInnerny",
-      "strength": 1
-    },
-    {
-      "source": "Oliver Parker",
-      "target": "Togo Igawa",
-      "strength": 1
-    },
-    {
-      "source": "Oliver Parker",
-      "target": "Tom Wilkinson",
       "strength": 1
     },
     {
@@ -9028,136 +4013,6 @@
       "strength": 1
     },
     {
-      "source": "Peter Jackson",
-      "target": "Adam Brown",
-      "strength": 3
-    },
-    {
-      "source": "Peter Jackson",
-      "target": "Aidan Turner",
-      "strength": 3
-    },
-    {
-      "source": "Peter Jackson",
-      "target": "AJ Michalka",
-      "strength": 1
-    },
-    {
-      "source": "Peter Jackson",
-      "target": "Bernard Hill",
-      "strength": 1
-    },
-    {
-      "source": "Peter Jackson",
-      "target": "Billy Boyd",
-      "strength": 3
-    },
-    {
-      "source": "Peter Jackson",
-      "target": "Christopher Lee",
-      "strength": 2
-    },
-    {
-      "source": "Peter Jackson",
-      "target": "Evan Parke",
-      "strength": 1
-    },
-    {
-      "source": "Peter Jackson",
-      "target": "James Nesbitt",
-      "strength": 3
-    },
-    {
-      "source": "Peter Jackson",
-      "target": "Jed Brophy",
-      "strength": 1
-    },
-    {
-      "source": "Peter Jackson",
-      "target": "Kate Winslet",
-      "strength": 1
-    },
-    {
-      "source": "Peter Jackson",
-      "target": "Liz Mullane",
-      "strength": 1
-    },
-    {
-      "source": "Peter Jackson",
-      "target": "Michael Imperioli",
-      "strength": 1
-    },
-    {
-      "source": "Peter Jackson",
-      "target": "Naomi Watts",
-      "strength": 1
-    },
-    {
-      "source": "Peter Jackson",
-      "target": "Orlando Bloom",
-      "strength": 3
-    },
-    {
-      "source": "Peter Jackson",
-      "target": "Thomas Kretschmann",
-      "strength": 1
-    },
-    {
-      "source": "Peter Jackson",
-      "target": "Tom McCarthy (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Rob Zombie",
-      "target": "Dee Wallace",
-      "strength": 1
-    },
-    {
-      "source": "Rob Zombie",
-      "target": "Erin Daniels",
-      "strength": 1
-    },
-    {
-      "source": "Rob Zombie",
-      "target": "Ken Foree",
-      "strength": 1
-    },
-    {
-      "source": "Rob Zombie",
-      "target": "Lew Temple",
-      "strength": 1
-    },
-    {
-      "source": "Rob Zombie",
-      "target": "Margot Kidder",
-      "strength": 1
-    },
-    {
-      "source": "Rob Zombie",
-      "target": "Matthew McGrory",
-      "strength": 1
-    },
-    {
-      "source": "Rob Zombie",
-      "target": "Michael Berryman",
-      "strength": 1
-    },
-    {
-      "source": "Rob Zombie",
-      "target": "Scout Taylor-Compton",
-      "strength": 1
-    },
-    {
-      "source": "Rob Zombie",
-      "target": "Sid Haig",
-      "strength": 3
-    },
-    {
-      "source": "Rob Zombie",
-      "target": "Tyler Mane",
-      "strength": 1
-    },
-    {
       "source": "Robert Rodriguez",
       "target": "Alexa PenaVega",
       "strength": 3
@@ -9260,151 +4115,6 @@
     {
       "source": "Robert Rodriguez",
       "target": "ZoÃ« Bell",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Amber Valletta",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Anthony Hopkins",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Bruce Greenwood",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Bruce Willis",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Denzel Washington (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Eddie Deezen",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Harrison Ford",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Isabella Rossellini",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "J.J. Cohen",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Jade Kindar-Martin",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Jeffrey Weissman",
-      "strength": 2
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Joseph Gordon-Levitt (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Larry King",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Lea Thompson",
-      "strength": 3
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Matthew McConaughey",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Meryl Streep",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Miranda Otto",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Nadine Velazquez",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Nick Searcy",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Paul Sanchez",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Peter Scolari",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Robin Wright",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Sam Anderson",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Sebastian RochÃ©",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Siobhan Fallon Hogan",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Soleyman Pierini",
-      "strength": 1
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Thomas F. Wilson",
-      "strength": 3
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Tom Hanks (Ac)",
-      "strength": 3
-    },
-    {
-      "source": "Robert Zemeckis",
-      "target": "Tom Skerritt",
       "strength": 1
     },
     {
@@ -9658,236 +4368,6 @@
       "strength": 1
     },
     {
-      "source": "Shawn Levy",
-      "target": "Alyson Stoner",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Bonnie Hunt (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "David Agranov",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "David Moscow",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Donald Faison",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Frankie Muniz",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Henry Czerny",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Hugh Jackman",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "James Franco",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Jessica Szohr",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Josh Gad",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Lee Majors",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Mila Kunis",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Olga Fonda",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Rami Malek",
-      "strength": 3
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Rob Riggle",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Robin Williams",
-      "strength": 3
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Roger Rees",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Steve Carell",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Steve Coogan",
-      "strength": 3
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Taran Killam",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Tom Welling",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "Torey Michael Adkins",
-      "strength": 1
-    },
-    {
-      "source": "Shawn Levy",
-      "target": "William Abadie",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Angelina Jolie Pitt (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Brian Geraghty",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Bruce Willis",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Chris Barrie",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Clarence Williams III",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Daniel von Bargen",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Dave Chappelle",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Jason Alexander (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Jason Statham",
-      "strength": 3
-    },
-    {
-      "source": "Simon West",
-      "target": "Madeline Carroll",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Mark Valley",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Michael Angarano",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Mini Anden",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Monica Potter",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Nicolas Cage",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Noah Taylor",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Sami Gayle",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Steve Buscemi (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Sylvester Stallone (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Tessa Thompson",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Timothy Hutton",
-      "strength": 1
-    },
-    {
-      "source": "Simon West",
-      "target": "Tony Goldwyn (Ac)",
-      "strength": 1
-    },
-    {
       "source": "Spike Lee",
       "target": "Aaron Stanford",
       "strength": 1
@@ -10095,191 +4575,6 @@
     {
       "source": "Spike Lee",
       "target": "Tracy Camilla Johns",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Al Pacino",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Albert Brooks (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Albert Finney",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Alex Pettyfer",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Beau Bridges",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Bernie Mac",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Blair Underwood",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Brad Pitt",
-      "strength": 3
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Channing Tatum",
-      "strength": 3
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Conchata Ferrell",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "David Costabile",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Don Cheadle",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Elliott Gould",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Enrico Colantoni",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Griffin Kane",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Jacob Vargas",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "James Lew",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Joel McHale",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Julia Roberts",
-      "strength": 3
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Katie Lowes",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Keith Hudson",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Laura San Giacomo",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Leland Orser",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Lesley Ann Warren",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Matt Damon",
-      "strength": 3
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Matthew McConaughey",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Michael Angarano",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Michael Fassbender",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Michael O'Neill",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Mini Anden",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Monique Gabriela Curnen",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Peter Fonda",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Peter Gallagher",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Steven Brill (Ac)",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Thomas F. Wilson",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "Tony Curran",
-      "strength": 1
-    },
-    {
-      "source": "Steven Soderbergh",
-      "target": "William Lucking",
       "strength": 1
     },
     {
@@ -10886,111 +5181,6 @@
       "source": "Tony Scott",
       "target": "Will Smith",
       "strength": 1
-    },
-    {
-      "source": "Trey Parker",
-      "target": "Dian Bachar",
-      "strength": 1
-    },
-    {
-      "source": "Trey Parker",
-      "target": "Eric Idle",
-      "strength": 1
-    },
-    {
-      "source": "Trey Parker",
-      "target": "Jeremy Shada",
-      "strength": 1
-    },
-    {
-      "source": "Trey Parker",
-      "target": "Matt Stone",
-      "strength": 1
-    },
-    {
-      "source": "Trey Parker",
-      "target": "Maurice LaMarche",
-      "strength": 1
-    },
-    {
-      "source": "Trey Parker",
-      "target": "Minnie Driver",
-      "strength": 1
-    },
-    {
-      "source": "Trey Parker",
-      "target": "Trey Parker (Ac)",
-      "strength": 3
-    },
-    {
-      "source": "Vincenzo Natali",
-      "target": "Angelo Tsarouchas",
-      "strength": 1
-    },
-    {
-      "source": "Vincenzo Natali",
-      "target": "David Hewlett (Ac)",
-      "strength": 3
-    },
-    {
-      "source": "Vincenzo Natali",
-      "target": "Delphine ChanÃ©ac",
-      "strength": 1
-    },
-    {
-      "source": "Vincenzo Natali",
-      "target": "Julian Richings",
-      "strength": 1
-    },
-    {
-      "source": "Vincenzo Natali",
-      "target": "Marie-JosÃ©e Croze",
-      "strength": 1
-    },
-    {
-      "source": "Vincenzo Natali",
-      "target": "Nicole de Boer",
-      "strength": 1
-    },
-    {
-      "source": "Vincenzo Natali",
-      "target": "Sarah Polley",
-      "strength": 1
-    },
-    {
-      "source": "Warren Beatty",
-      "target": "Charlie Korsmo",
-      "strength": 1
-    },
-    {
-      "source": "Warren Beatty",
-      "target": "Graham Beckel",
-      "strength": 1
-    },
-    {
-      "source": "Warren Beatty",
-      "target": "Kirk Baltz",
-      "strength": 1
-    },
-    {
-      "source": "Warren Beatty",
-      "target": "M. Emmet Walsh",
-      "strength": 1
-    },
-    {
-      "source": "Warren Beatty",
-      "target": "Paul Sorvino",
-      "strength": 1
-    },
-    {
-      "source": "Warren Beatty",
-      "target": "Seymour Cassel",
-      "strength": 1
-    },
-    {
-      "source": "Warren Beatty",
-      "target": "Warren Beatty (Ac)",
-      "strength": 3
     },
     {
       "source": "Wes Anderson",
